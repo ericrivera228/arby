@@ -1,0 +1,36 @@
+Required for phase 2 completion:
+-> 	
+-> A reset button
+-> Fix rounding buy price and sell price
+	-> Remember to remove rounding from the display method in Arbitration manager
+	-> Go through code and figure out where rounding makes sense. (ArbitrationHunter? On the buy execution? Do I need to round at all?)	
+-> Automatic lookup of trade fees (remeber to remove hard coded fees in exchange constructors)
+-> Test case for saving an arbitration trade without  an arbitration run id (should through an error)	
+-> Automated tests for when there isn't enough btc in the sell exchange to take advantage of all adbitration.
+-> Update exchange grid to populate right after the start button is hit
+-> Make use of second gride view to display arbitration trades
+
+Nice to Haves:
+-> Browse button for file name
+-> Add Coinbase
+
+************Completed*************
+-> Renamed and reorganized solution
+-> Fixed bug in ArbitrationHunter.CalculateArbitration with AvailableBtc and AvailableFiat
+-> Removed name column from db and domain object
+-> Renamed SEARCH_INTERVAL column in ARBITRATION_RUN to SEARCH_INTERVAL_MILLISECONDS
+-> In ArbitrationHunter.CalculateArbitration, updated while loop to stop when maxFiat is under $1.
+-> Changed arbitration hunter output label
+-> Finished fixing teest cases 8 and 9; updated ArbitrationHunter tests with more accurate values.
+-> Added max fiat parameter
+-> Ensured there are no references to Console.WriteLine
+-> Put a limit on the window output.
+-> Change arbitration manager thread.sleep to a timer.
+-> Implemented Log4net
+-> Create static ArbitrationFilter class. Come up with methods that represent the different rules. After I have come up with a couple rules, implement a UI for being able to pick the different rules.	
+-> Removed ProcessId input
+-> Converted tests class to automated tests
+-> Converted double to decimal through program
+-> Add ARBITRATION_TRADE!ARBITRATION_RUN_ID and foreign key, updated domain object as well.
+-> Created test cases for insertion and deletion of arbitration opportunities.
+-> Added automated tests for new MaxFiat parameter

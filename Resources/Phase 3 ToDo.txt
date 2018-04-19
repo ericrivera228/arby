@@ -1,0 +1,53 @@
+Required for phase 3 completion:
+-> Fix rounding buy price and sell price
+	-> Remember to remove rounding from the display method in Arbitration manager
+	-> Go through code and figure out where rounding makes sense. (ArbitrationHunter? On the buy execution? Do I need to round at all?)	
+	-> Bitcoin transfers (and probably everything related to moving bitcoins around should be rounded to 8 decimal places).
+
+Nice to have for Phase 3 completion:
+-> Encrypt exchange info in app.config.
+-> Opportunity Validator polls api for actual order status.
+-> Change how ArbitrationHunter handles the accountForBtcTransferFee parameter. Instead of just calculating the average cost of the fee in fiat, it should just calculated arbitration where the buy amount is more than the sell amount.
+		(that is, buy amount + buy exchange transfer fee). This will fix the simulation for on time transfers, which is currently inaccurate because of how simulated buying and selling works (simulated buying and selling doesn't actually,
+		 use the profit field an arbitration opportunity, it changes exchange balances based on total buy and total sell costs. So simulation for this mode isn't quite right.)
+
+Questions to answer?
+After updating fiat balance in bitstamp, should I round? (since I am converting USD to EUR)
+
+	
+When adding a new exchange:
+	1. Check btc withdrawal fee
+	2. Add deposit addres, api key, and api secret to app.config
+	3. Add deposit address to Kraken and Cryptsy trusted addresses
+	4. Add MinimumWithdrawalAmount setting
+	 
+	 Password; julysix
+	 
+
+=====================Obeserve\Research===================
+1. Kraken might be up to 5 decimal places now; check the difference strings on the Kraken order
+	
+=========================Bugs========================
+8. When there is an error with the arbitration run and the dialog box comes up, the 'run stopped' message is not logged until after the user clicks ok.?
+9. When balance update fails on start, program should still run.
+10. Proper JSON serialization for Kraken
+
+======================Features========================
+7. Update exchanges to count the number of open orders they have.
+8. Report runner
+	-> Every date at midnight, gets balances for all accounts
+	-> Gets number of open orders for each exchange
+18. Finish implementing total balances update:
+	-> BTCe
+20. Backup test db; moved to live
+21. Backup Google Authenticator
+22. Dramatically reduce UI.
+
+=================Path to Finish==========================
+2. Fix ANX bug
+3. Finish implementing total balances update (see above)
+4. Look for inefficencies between order book update and trade execution
+5. Report runner
+7. Bitx
+20. Backup test db; moved to live
+21. Backup Google Authenticator

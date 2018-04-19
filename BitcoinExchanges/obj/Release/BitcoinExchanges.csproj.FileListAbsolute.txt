@@ -1,0 +1,14 @@
+C:\Code Repository\ArbitrationSimulator\BitcoinExchanges\bin\Release\BitcoinExchanges.dll.config
+C:\Code Repository\ArbitrationSimulator\BitcoinExchanges\bin\Release\BitcoinExchanges.dll
+C:\Code Repository\ArbitrationSimulator\BitcoinExchanges\bin\Release\BitcoinExchanges.pdb
+C:\Code Repository\ArbitrationSimulator\BitcoinExchanges\bin\Release\CommonFunctions.dll
+C:\Code Repository\ArbitrationSimulator\BitcoinExchanges\bin\Release\DatabaseLayer.dll
+C:\Code Repository\ArbitrationSimulator\BitcoinExchanges\bin\Release\RestSharp.dll
+C:\Code Repository\ArbitrationSimulator\BitcoinExchanges\bin\Release\CommonFunctions.pdb
+C:\Code Repository\ArbitrationSimulator\BitcoinExchanges\bin\Release\DatabaseLayer.pdb
+C:\Code Repository\ArbitrationSimulator\BitcoinExchanges\bin\Release\RestSharp.xml
+C:\Code Repository\ArbitrationSimulator\BitcoinExchanges\obj\Release\BitcoinExchanges.csprojResolveAssemblyReference.cache
+C:\Code Repository\ArbitrationSimulator\BitcoinExchanges\obj\Release\BitcoinExchanges.dll
+C:\Code Repository\ArbitrationSimulator\BitcoinExchanges\obj\Release\BitcoinExchanges.pdb
+C:\Code Repository\ArbitrationSimulator\BitcoinExchanges\bin\Release\ArbitrationUtilities.dll
+C:\Code Repository\ArbitrationSimulator\BitcoinExchanges\bin\Release\ArbitrationUtilities.pdb

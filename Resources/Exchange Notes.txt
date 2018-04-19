@@ -1,0 +1,117 @@
+Good webiste for Crypto currency information:
+	https://www.cryptocoincharts.info/
+	
+Markets to look into:
+	-> The Rock Trading Company
+			Deposit: EURO wire transfer, Ripple, US wire transfer
+			Withdrawl: SEPA, Ripple, USD bank transfer
+		    Website: https://www.therocktrading.com/
+			
+	-> CEX.io
+			deposit: Credit card, SEPA, USD bank transfer
+			withdrawal: SEPA, USD Bank transfer
+			website: https://cex.io/
+			
+	-> LoybalBit
+			deposit: SEPA, Int. Wire  transfer
+			withdrawal: SEPA, Intl. Wire transfer
+			website: https://www.loyalbit.com/
+	
+	-> CoinX
+			deposit: through online banking, costs 0.25
+			withdrawal: ACH transfer
+			website: http://coinx.com/
+			
+	-> CoinMKT
+			deposit: wire transfer, $25
+			withdrawal: wire transfer
+			website: https://coinmkt.com/
+		
+	-> Buttercoin
+			deposit: Bank transfer. 1 - 2 days
+			withdrawal: Bank transfer. 1 - 2 days
+			website: https://buttercoin.com/
+			
+	-> Coinbase
+			deposit:
+			withdrawal:
+			website: https://www.coinbase.com/
+			
+	-> Coinsetter
+			deposit: bank transfer
+			withdrawal: Bank transfer
+			website: https://www.coinsetter.com/
+			
+	-> CampBX
+			deposit: Money order
+			withdrawal: ACH transfer, cost $7, takes 2-3 days
+			website: https://campbx.com/
+	
+	-> SecondMarket
+			deposit:
+			withdrawal:
+			website: https://www.secondmarket.com/bitcoin-trading/
+			
+	-> Quadriga CX (USD)
+	-> Bitfinex (USD)
+	-> Coin.mx USD
+	-> Cryptsy
+	
+Great comparer tool
+	
+US exchanges:
+
+	*Note* Need to research means that I still need to see if the api withdrawls are possible and I can sign up for an account.
+
+	1. itBit
+	2. Bitstamp
+	3. Kraken
+	4. OkCoin USD (double check api wirthdrawl)
+	5. Bitbay (looks like low volume though)
+	
+	Can't Use:
+	1. AirBEx (in beta)
+	2. exmo (can't withdraw btc with api)
+	3. Atlas (can't withdraw with api)
+	4. Gatecoin (need proof of address)
+	5. CCEDK (can't withdraw with api)
+	6. CEX.IO (can't withdraw with api)
+	7. LakeBTC (can't withdraw with api)
+	8. HitBtc (too consistently expensive)
+	
+	Need to research:
+	1.   bitKonan
+	2.   Loyalbit
+	3.   CoinX
+	4.   Buttercoin
+	5.   Coinbase
+	6.   Coinsetter
+	7.   Quadriga CX
+	8.   Bitfinex
+	9.   Coin.mx
+	10. Cryptsy
+	
+Euro exchanges
+	1. itBit
+	2. Bitstamp
+	3. Kraken
+	4. Anx
+	5. Bitbay (looks like low volume though) 
+	6. Clevercoin (awaiting api approval)
+	
+	Can't Use:
+	1. Paymium (need European address)
+	3. AirBEx (in beta)
+	4. Exmo (can't withdraw btc with api)
+	5. Lazycoins (no api yet)
+	6. Gatecoin (need proof of address)
+	7. CCEDK (can't withdraw with api)
+	8. CEX.IO (can't withdraw with api)
+	9. bitcoin.de (need European address)
+	10. HitBtc (too consistently expensive)
+	11. Safello (need European bank account)
+	12. Zyado (trade fees too high)
+	13. The Rock Trading (can't withdraw with api)
+	
+	Need to research:
+	1. Bitcurex

@@ -1,0 +1,6 @@
+Failure 1:
+	Arbitration trade : 9391
+	Reported Balances before trade
+		Fiat: 34.77776
+		Btc: 0.48430208
+		buy 0.05154639 @ 388 = 19.99999932

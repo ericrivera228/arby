@@ -1,0 +1,32 @@
+C:\Users\erivera\Google Drive\Backups\Visual Studio Projects\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\ArbitrationSimulator.Tests.dll.config
+C:\Users\erivera\Google Drive\Backups\Visual Studio Projects\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\ArbitrationSimulator.Tests.dll
+C:\Users\erivera\Google Drive\Backups\Visual Studio Projects\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\ArbitrationSimulator.Tests.pdb
+C:\Users\erivera\Google Drive\Backups\Visual Studio Projects\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\ArbitrationSimulator.exe
+C:\Users\erivera\Google Drive\Backups\Visual Studio Projects\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\DatabaseLayer.dll
+C:\Users\erivera\Google Drive\Backups\Visual Studio Projects\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\RestSharp.dll
+C:\Users\erivera\Google Drive\Backups\Visual Studio Projects\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\log4net.dll
+C:\Users\erivera\Google Drive\Backups\Visual Studio Projects\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\ArbitrationSimulator.pdb
+C:\Users\erivera\Google Drive\Backups\Visual Studio Projects\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\DatabaseLayer.pdb
+C:\Users\erivera\Google Drive\Backups\Visual Studio Projects\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\RestSharp.xml
+C:\Users\erivera\Google Drive\Backups\Visual Studio Projects\ArbitrationSimulator\ArbitrationSimulator.Tests\obj\Debug\ArbitrationSimulator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\erivera\Google Drive\Backups\Visual Studio Projects\ArbitrationSimulator\ArbitrationSimulator.Tests\obj\Debug\ArbitrationSimulator.Tests.dll
+C:\Users\erivera\Google Drive\Backups\Visual Studio Projects\ArbitrationSimulator\ArbitrationSimulator.Tests\obj\Debug\ArbitrationSimulator.Tests.pdb
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\ArbitrationSimulator.Tests.dll.config
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\ArbitrationSimulator.Tests.dll
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\ArbitrationSimulator.Tests.pdb
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\ArbitrationSimulator.exe
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\ArbitrationUtilities.dll
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\BitcoinExchanges.dll
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\CommonFunctions.dll
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\DatabaseLayer.dll
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\log4net.dll
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\RestSharp.dll
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\CommonFunctions.pdb
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\ArbitrationUtilities.pdb
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\BitcoinExchanges.pdb
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\DatabaseLayer.pdb
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\RestSharp.xml
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\obj\Debug\ArbitrationSimulator.Tests.csprojResolveAssemblyReference.cache
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\obj\Debug\ArbitrationSimulator.Tests.dll
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\obj\Debug\ArbitrationSimulator.Tests.pdb
+C:\Code Repository\ArbitrationSimulator\ArbitrationSimulator.Tests\bin\Debug\ArbitrationSimulator.pdb

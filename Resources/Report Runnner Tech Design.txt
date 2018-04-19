@@ -1,0 +1,14 @@
+Report creater tech design:
+	-> Every day at certain time, create entry that logs total balances
+		-> Time is a config setting
+		-> If it past time of day, and entry is not created, create entry
+	-> Log total btc and fiat for each exchange, and also differences.
+	-> Would be nice to have another sheet that displays open orders per exchange, total arbitration trades made, calculate profit, actual profit. Any useful stat regarding the trades themselves
+	-> This is it's own class. (BalanceReport.Start)
+		-> Constructor: BalanceReport(string logFilename)
+		-> Log file name is a config setting
+	-> ArbitrationManager detects when it's time for the report to run, and calls it
+		-> Need to start and start arbitration (probably just continue run)
+		
+Resources for working with excel:
+	http://www.codeproject.com/Tips/696864/Working-with-Excel-Using-Csharp

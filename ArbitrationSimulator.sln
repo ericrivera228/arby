@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbitrationSimulator", "ArbitrationSimulator\ArbitrationSimulator.csproj", "{6181C184-C058-4630-B84E-0F9DD8384371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLayer", "DatabaseLayer\DatabaseLayer.csproj", "{ED2DC7CD-62A5-40F2-A94A-6D2DB1B842F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbitrationSimulator.Tests", "ArbitrationSimulator.Tests\ArbitrationSimulator.Tests.csproj", "{8D2CCB82-1438-46D0-96A9-F20FDF57E3CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonFunctions", "..\CommonFunctions\CommonFunctions\CommonFunctions.csproj", "{8C5BE9C2-EE9E-454D-BB23-B1701D2E6A1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonFunctions.Tests", "..\CommonFunctions\CommonFunctions.Tests\CommonFunctions.Tests.csproj", "{4EC4619A-ED7A-45B4-AFD0-E342F899F945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitcoinExchanges", "BitcoinExchanges\BitcoinExchanges.csproj", "{D8E8917D-FB3C-4207-94CC-4E76BE5BAA74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbitrationUtilities", "ArbitrationUtilities\ArbitrationUtilities.csproj", "{8F38AA3C-92B2-43DF-8432-DD428DDD852F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitcoinExchanges.Tests", "BitcoinExchanges.Tests\BitcoinExchanges.Tests.csproj", "{7912047A-CAEA-47C8-8ABB-89108F80ABA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6181C184-C058-4630-B84E-0F9DD8384371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6181C184-C058-4630-B84E-0F9DD8384371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6181C184-C058-4630-B84E-0F9DD8384371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6181C184-C058-4630-B84E-0F9DD8384371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2DC7CD-62A5-40F2-A94A-6D2DB1B842F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2DC7CD-62A5-40F2-A94A-6D2DB1B842F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2DC7CD-62A5-40F2-A94A-6D2DB1B842F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2DC7CD-62A5-40F2-A94A-6D2DB1B842F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2CCB82-1438-46D0-96A9-F20FDF57E3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2CCB82-1438-46D0-96A9-F20FDF57E3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2CCB82-1438-46D0-96A9-F20FDF57E3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2CCB82-1438-46D0-96A9-F20FDF57E3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5BE9C2-EE9E-454D-BB23-B1701D2E6A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5BE9C2-EE9E-454D-BB23-B1701D2E6A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5BE9C2-EE9E-454D-BB23-B1701D2E6A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5BE9C2-EE9E-454D-BB23-B1701D2E6A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC4619A-ED7A-45B4-AFD0-E342F899F945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC4619A-ED7A-45B4-AFD0-E342F899F945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC4619A-ED7A-45B4-AFD0-E342F899F945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC4619A-ED7A-45B4-AFD0-E342F899F945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E8917D-FB3C-4207-94CC-4E76BE5BAA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E8917D-FB3C-4207-94CC-4E76BE5BAA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E8917D-FB3C-4207-94CC-4E76BE5BAA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E8917D-FB3C-4207-94CC-4E76BE5BAA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F38AA3C-92B2-43DF-8432-DD428DDD852F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F38AA3C-92B2-43DF-8432-DD428DDD852F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F38AA3C-92B2-43DF-8432-DD428DDD852F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F38AA3C-92B2-43DF-8432-DD428DDD852F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7912047A-CAEA-47C8-8ABB-89108F80ABA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7912047A-CAEA-47C8-8ABB-89108F80ABA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7912047A-CAEA-47C8-8ABB-89108F80ABA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7912047A-CAEA-47C8-8ABB-89108F80ABA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

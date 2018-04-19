@@ -1,0 +1,5 @@
+C:\Code Repository\ArbitrationSimulator\DatabaseLayer\bin\Release\DatabaseLayer.dll
+C:\Code Repository\ArbitrationSimulator\DatabaseLayer\bin\Release\DatabaseLayer.pdb
+C:\Code Repository\ArbitrationSimulator\DatabaseLayer\obj\Release\DatabaseLayer.dll
+C:\Code Repository\ArbitrationSimulator\DatabaseLayer\obj\Release\DatabaseLayer.pdb
+C:\Code Repository\ArbitrationSimulator\DatabaseLayer\obj\Release\DatabaseLayer.csprojResolveAssemblyReference.cache

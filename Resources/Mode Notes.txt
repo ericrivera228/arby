@@ -1,0 +1,54 @@
+Mode Feature:
+
+	Overview:
+	
+		Simulation mode: Arbitrator runs as it has been. Each account has a fake amount of funds that is simulates trading with. 
+			-> Exchange funds are hypothetical
+				-> Account balances are NOT automatically updated.
+				-> Amounts are entered from the grid.
+			-> Buying and selling are simulated.
+			-> Transfers are simulated and completed after an arbitrary amount of time.
+			-> BTC in transfer is kept track of
+			
+		Live mode:
+			-> Exchange funds are real
+				-> Must be updated after every cycle.
+			-> Real buying and selling happens
+			-> Transfers:
+				-> Depending on transfer mode, transfers are executed or nothing happens
+				-> BTC in transfer is not kept track of
+			-> Validation checker is invoked.
+		
+	Tech Design:
+		
+		#-> Create new enum class, ArbitrationMode: (DONE)!
+			#-> Live
+			#-> Simulation
+	
+		#-> Add radio button input that allows users to select mode
+		#-> Add input parameter to arbitration run
+			#-> Domain object
+			#-> DB table
+		
+		#Simulation mode:
+			#-> Pull starting account values from the config file
+			#-> Simulated buy and sell methods are called.
+			#-> Depending on transfer mode, appropriate SIMULATED transfer type is called.
+			#-> BTC in transfer field is kept track of.
+			
+		Live mode:
+			#-> On start button press, get initial account values.
+			#-> At the beginning of each cycle, update account balances.
+			#-> Real buy and sell methods are called.
+			#-> Depending on transfer mode, appropriate SIMULATED transfer type is called.
+			-> Engage validation checker after execution of validation trade
+		
+Transfer Mode:
+		OnTrade: 
+			-> Transfers are completed at the same time of the arbitration trade
+		Batch (phase 1, manual)
+			-> Keeps track of all the transfer that need to happen, and combines them to produces a list such that there is one transfer out of each exchange.
+		Batch (phase 2, manual)
+			-> Transfers are executed automatically after interval
+			-> Input: Batch interval (hours). The amount of time between batch transfers
+			

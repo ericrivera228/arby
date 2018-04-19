@@ -1,0 +1,12 @@
+2016-01-18 21:02:32 - ERROR - Cannot create ask order at OkCoin because the given amount (0.007) is too small.
+   at BitcoinExchanges.BaseExchange.Buy(Decimal amount, Decimal price) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 304
+   at ArbitrationSimulator.ArbitrationManager.Buy(ArbitrationOpportunity opportunityToExecute) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 504
+   at ArbitrationSimulator.ArbitrationManager.<>c__DisplayClass4.<ExecuteArbitrationTrade>b__1() in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 367
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+2016-01-18 21:02:32 - ERROR - Cannot create ask order at Btce because the given amount (0.006986) is too small.
+   at BitcoinExchanges.BaseExchange.Sell(Decimal amount, Decimal price) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 282
+   at ArbitrationSimulator.ArbitrationManager.Sell(ArbitrationOpportunity opportunityToExecute) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 485
+   at ArbitrationSimulator.ArbitrationManager.<>c__DisplayClass4.<ExecuteArbitrationTrade>b__0() in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 367
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()

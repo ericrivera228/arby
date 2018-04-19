@@ -1,0 +1,73 @@
+        private class KrakenAuthenticatedRequest : RestRequest
+        {
+            private readonly string _apiKey;
+            private readonly string _apiSecret;
+            private readonly long _nonce = DateTime.Now.Ticks;
+            private string props = "";
+
+            public KrakenAuthenticatedRequest(string resource, Method method, string apiKey, string apiSecret)
+                : base(resource, method)
+            {
+                _apiKey = apiKey;
+                _apiSecret = apiSecret;
+
+                props =  "nonce=" + _nonce + props;
+
+                AddHeader("API-Key", _apiKey);
+                AddHeader("API-Sign", CreateSignature());
+                AddHeader("Content-Type", "application/x-www-form-urlencoded");
+                AddHeader("Content-Length", "24");
+            }
+           
+            private string CreateSignature()
+            {
+                byte[] base64DecodedSecred = Convert.FromBase64String(_apiSecret);
+                string path = "/0/private/Balance";
+
+                var np = _nonce + Convert.ToChar(0) + props;
+
+                var pathBytes = Encoding.UTF8.GetBytes(path);
+                var hash256Bytes = sha256_hash(np);
+                var z = new byte[pathBytes.Count() + hash256Bytes.Count()];
+                pathBytes.CopyTo(z, 0);
+                hash256Bytes.CopyTo(z, pathBytes.Count());
+
+                var signature = getHash(base64DecodedSecred, z);
+                return Convert.ToBase64String(signature);
+            }
+
+            private byte[] sha256_hash(String value)
+            {
+                using (SHA256 hash = SHA256Managed.Create())
+                {
+                    Encoding enc = Encoding.UTF8;
+
+                    Byte[] result = hash.ComputeHash(enc.GetBytes(value));
+
+                    return result;
+                }
+            }
+
+            private byte[] getHash(byte[] keyByte, byte[] messageBytes)
+            {
+                using (var hmacsha512 = new HMACSHA512(keyByte))
+                {
+
+                    Byte[] result = hmacsha512.ComputeHash(messageBytes);
+
+                    return result;
+
+                }
+            }
+
+            private static byte[] StringToByteArray(string str)
+            {
+                return Encoding.ASCII.GetBytes(str);
+            }
+
+            private static string ByteArrayToString(byte[] hash)
+            {
+                return BitConverter.ToString(hash).Replace("-", "").ToLower();
+            }
+
+        }

@@ -1,0 +1,45 @@
+Overview:	
+	Transfer Rollup: 
+		-> Let several arbitration trades of the same buyer/seller build up, and then transfer all of the bitcoins at once.
+
+	-> After how many arbitration trades should the transfer be made? Start out with 3.
+		-> This number is input on the screen. 
+		
+	-> UI input is similar to filter rules. There are two transfer modes:
+		-> Rollup
+		-> OnTime (a seperate transfer is made for each arbitration trade). 
+		
+	-> Arbitration trades are a many to one relationship with transfers, with a minimum of 1. Thus, arbitration trades should be tied to transfers. 
+	
+Tech Design:
+	#-> DB Schema changes
+		#-> Remove ARBITRATION_TRADE_ID field from the TRANFER table.
+		#-> Add TRANSFER_ID field to ARBITRATION_TRADE table.
+		#-> Add transfer mode field to ARBITRATION_RUN table.
+		#-> Add transfer mode trade amount to ARBITRATION_RUN table.
+		#-> Update ARBITRATION_TRADE, TRANSFER, and ARBITRATION_RUN domain objects.
+		#	-> Update automated tests. (Removed hardcoded test in PersistArbitrationOpportunity
+		#-> Create CalculateRolledUpTransfers(int rollupNumber)
+		#	-> Looks for the maximum number of arbitration trades with the same buy/seller combo that aren't tied to a transfer (transferId = null) and returns the cumulative bitcoin sum. The given number is the minimum number of matches that justify a transfer. Returns null if none are found. Return values include
+		#	     buy/sell exchanges, and transfer amount.
+		#	-> If rollup number is null, returns all transfers combinations
+	#-> Add new TransferMode enum class (with two values, Rollup and OnTime)
+	#-> Add logic that updates ARBITRATION_OPPORUNITY with TRANSFER_ID when appropriate
+	#-> Update CompleteTransferTest
+	#-> UI Changes:
+		#-> Add TransferMode radio button class
+		#-> Add new radio button group with the two options.
+			#-> The rollup option has an integer input for specifying the number of  trades that should be rolled up
+				#-> Add Arbitration_Form.TransferModeGroupBox_CheckChanged method that enables and disables this input based upon the selection
+			#-> These inputs are enabled and disabled when the simulation starts and ends.
+		#-> In Arbitration_Form.ValidateAndSetInputValues, set transfer mode of run.
+	#-> Update arbitrationManager to call the appropriate transfer method in TransferManager
+	#-> TransferManager changes:
+	#	-> Rename current transfer method to OnTimeTransfer
+	#	-> Create new RollupTransfer(int minRollup) method
+	#		-> Calls CalculateRolledUpTransfers stored procedure, passing in minRollup. 
+	#	-> For each transfer returned, executes that transfer.
+	#-> Figure out how to handle transfers that might not be completed from the previous run.
+	-> Find out when transfer fee is taken into account.  i.e., when I transfer amount x, does x show up in the destination exchange, or is it x - fee in destination exchange?
+	#-> Logging for executing transfers
+	#-> Take into account transfer fee in onTime transfer

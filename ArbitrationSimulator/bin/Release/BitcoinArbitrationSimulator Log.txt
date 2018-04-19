@@ -1,0 +1,25 @@
+2016-01-22 00:15:32 - INFO - Arbitration hunting started. Arbitration run ID = 8878.
+2016-01-22 00:15:34 - INFO - Arbitration hunting stopped. Arbitration run ID = 8878.
+2016-01-22 00:15:35 - INFO - Arbitration hunting started. Arbitration run ID = 8879.
+2016-01-22 00:16:31 - INFO - Arbitration hunting stopped. Arbitration run ID = 8879.
+2016-01-22 00:16:34 - INFO - Arbitration hunting stopped. Arbitration run ID = 8879.
+2016-02-03 21:26:24 - INFO - Arbitration hunting started. Arbitration run ID = 8965.
+2016-02-03 21:26:28 - WARN - There was an error updating account info for Bitstamp: Object reference not set to an instance of an object.
+2016-02-03 21:26:28 - WARN - There was an error updating account info for ItBit: Object reference not set to an instance of an object.
+2016-02-03 21:26:28 - WARN - There was an error updating account info for Btce: Object reference not set to an instance of an object.
+2016-02-03 21:26:28 - WARN - There was an error updating account info for Anx: Object reference not set to an instance of an object.
+2016-02-03 21:26:28 - WARN - There was an error updating account info for Kraken: Object reference not set to an instance of an object.
+2016-02-03 21:26:29 - WARN - There was an error updating account info for OkCoin: Object reference not set to an instance of an object.
+2016-02-03 21:26:36 - WARN - There was an error updating account info for ItBit: Object reference not set to an instance of an object.
+2016-02-03 21:26:36 - WARN - There was an error updating account info for Bitstamp: Object reference not set to an instance of an object.
+2016-02-03 21:26:36 - WARN - There was an error updating account info for Anx: Object reference not set to an instance of an object.
+2016-02-03 21:26:36 - WARN - There was an error updating account info for Btce: Object reference not set to an instance of an object.
+2016-02-03 21:26:37 - WARN - There was an error updating account info for Kraken: Object reference not set to an instance of an object.
+2016-02-03 21:26:37 - WARN - There was an error updating account info for OkCoin: Object reference not set to an instance of an object.
+2016-02-03 21:26:43 - WARN - There was an error updating account info for ItBit: Object reference not set to an instance of an object.
+2016-02-03 21:26:44 - WARN - There was an error updating account info for Bitstamp: Object reference not set to an instance of an object.
+2016-02-03 21:26:44 - INFO - Arbitration hunting stopped. Arbitration run ID = 8965.
+2016-02-03 21:26:44 - WARN - There was an error updating account info for OkCoin: Object reference not set to an instance of an object.
+2016-02-03 21:26:44 - WARN - There was an error updating account info for Kraken: Object reference not set to an instance of an object.
+2016-02-03 21:26:44 - WARN - There was an error updating account info for Btce: Object reference not set to an instance of an object.
+2016-02-03 21:26:44 - WARN - There was an error updating account info for Anx: Object reference not set to an instance of an object.

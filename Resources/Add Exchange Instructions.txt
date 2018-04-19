@@ -1,0 +1,12 @@
+When adding a new exchange:
+	1. Give the checkbox an exchange type in ArbitrationForm constructor.
+	2. Update ArbitrationManager.BuildExchangeListFromPreviousRun to include the new exchange.
+	3. Update ArbitrationRun.AddExchange to include the new exchange.
+	4. Add a column in the ArbitrationRun table for the new exchange.
+	5. Add 'Use<Exchange>' boolean property to arbitration run.
+	6. Update ArbitrationRun.PersistToDb to include the new exchange.
+	7. Update ArbitrationRun.GetArbitrationRunFromDbById to include the new exchange.
+	8. Update ArbitrationForm.SetInputsForContinuedRun to include the new exchange.
+	9. Add config section
+		-> Don't forget to declare the section in the <configSections>
+	10. In ArbitrationForm constructor, add to _exchangeCheckboxList

@@ -1,0 +1,2296 @@
+2016-01-22 09:43:40 - INFO - Arbitration hunting started. Arbitration run ID = 8898.
+2016-01-22 10:34:40 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 10:36:09 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 12:11:17 - INFO - Arbitration hunting stopped. Arbitration run ID = 8898.
+2016-01-22 12:39:19 - INFO - Arbitration hunting started. Arbitration run ID = 8901.
+2016-01-22 13:26:17 - INFO - Just executed arbitration opportunity 9363.
+2016-01-22 13:26:17 - INFO - Balances before trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.25770799
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 60.8342
+			Btc: 0.3824291400
+		OkCoin
+			Fiat: 2.9524
+			Btc: 0.394162
+2016-01-22 13:27:46 - WARN - Realized profit for arbitration trade 9363 was more than 2% greater than the expected profit. Expected profit = 0.02030, realized profit = 0.05970000.
+2016-01-22 13:27:46 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.25770799
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 41.1880
+			Btc: 0.4344291400
+		OkCoin
+			Fiat: 22.6583
+			Btc: 0.342162
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: -19.6462
+			Btc: 0.0520000000
+		OkCoin
+			Fiat: 19.7059
+			Btc: -0.052000
+2016-01-22 13:29:27 - WARN - There was an error updating the balances for Kraken: Invalid JSON primitive: .
+2016-01-22 13:30:51 - WARN - There was an error updating the balances for Kraken: Invalid JSON primitive: .
+2016-01-22 13:31:59 - WARN - There was an error updating the balances for Kraken: Invalid JSON primitive: .
+2016-01-22 13:37:26 - WARN - There was an error updating the balances for Kraken: Invalid JSON primitive: .
+2016-01-22 13:38:02 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 13:39:48 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 13:42:30 - INFO - Just executed arbitration opportunity 9364.
+2016-01-22 13:42:30 - INFO - Balances before trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.25770799
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 41.1880
+			Btc: 0.4344291400
+		OkCoin
+			Fiat: 22.6583
+			Btc: 0.342162
+2016-01-22 13:42:38 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.25770799
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 21.5430
+			Btc: 0.4864291400
+		OkCoin
+			Fiat: 42.3247
+			Btc: 0.290162
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: -19.6450
+			Btc: 0.0520000000
+		OkCoin
+			Fiat: 19.6664
+			Btc: -0.052000
+2016-01-22 13:42:41 - INFO - Just executed arbitration opportunity 9365.
+2016-01-22 13:42:41 - INFO - Balances before trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.25770799
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 21.5430
+			Btc: 0.4864291400
+		OkCoin
+			Fiat: 42.3247
+			Btc: 0.290162
+2016-01-22 13:42:49 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.25770799
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 1.8980
+			Btc: 0.5384291400
+		OkCoin
+			Fiat: 62.0425
+			Btc: 0.238162
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: -19.6450
+			Btc: 0.0520000000
+		OkCoin
+			Fiat: 19.7178
+			Btc: -0.052000
+2016-01-22 13:48:24 - WARN - There was an error updating the balances for Kraken: Invalid JSON primitive: .
+2016-01-22 13:49:01 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 13:49:40 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 13:50:25 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 13:51:01 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 13:52:01 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 13:52:51 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 13:58:59 - INFO - Just executed arbitration opportunity 9366.
+2016-01-22 13:58:59 - INFO - Balances before trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.25770799
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 1.8980
+			Btc: 0.5384291400
+		OkCoin
+			Fiat: 62.0425
+			Btc: 0.238162
+2016-01-22 13:59:05 - WARN - Arbitration trade 9366 did not execute. Sell order did not get filled. 
+2016-01-22 13:59:05 - INFO - Balances after trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.20581199
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 1.8980
+			Btc: 0.5384291400
+		OkCoin
+			Fiat: 42.30278
+			Btc: 0.290058
+Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: -0.05189600
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 0.0000
+			Btc: 0.0000000000
+		OkCoin
+			Fiat: -19.73972
+			Btc: 0.051896
+2016-01-22 13:59:09 - INFO - Just executed arbitration opportunity 9367.
+2016-01-22 13:59:09 - INFO - Balances before trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.20581199
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 1.8980
+			Btc: 0.5384291400
+		OkCoin
+			Fiat: 42.30278
+			Btc: 0.290058
+2016-01-22 13:59:16 - WARN - Arbitration trade 9367 did not execute. Sell order did not get filled. 
+2016-01-22 13:59:16 - INFO - Balances after trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.15391599
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 1.8980
+			Btc: 0.5384291400
+		OkCoin
+			Fiat: 22.56462
+			Btc: 0.341954
+Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: -0.05189600
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 0.0000
+			Btc: 0.0000000000
+		OkCoin
+			Fiat: -19.73816
+			Btc: 0.051896
+2016-01-22 13:59:16 - INFO - Just executed arbitration opportunity 9368.
+2016-01-22 13:59:17 - INFO - Balances before trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.15391599
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 1.8980
+			Btc: 0.5384291400
+		OkCoin
+			Fiat: 22.56462
+			Btc: 0.341954
+2016-01-22 13:59:22 - WARN - Arbitration trade 9368 did not execute. Sell order did not get filled. Buy order did not get filled. 
+2016-01-22 13:59:23 - INFO - Balances after trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.10201999
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 1.8980
+			Btc: 0.5384291400
+		OkCoin
+			Fiat: 2.82594
+			Btc: 0.341954
+Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: -0.05189600
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 0.0000
+			Btc: 0.0000000000
+		OkCoin
+			Fiat: -19.73868
+			Btc: 0.000000
+2016-01-22 14:08:35 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 14:09:11 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 14:09:59 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 14:10:42 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 14:29:43 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 14:49:28 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 14:49:43 - INFO - Just executed arbitration opportunity 9369.
+2016-01-22 14:49:43 - INFO - Balances before trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 59.25
+			Btc: 0.10201999
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 1.8980
+			Btc: 0.5384291400
+		OkCoin
+			Fiat: 2.82594
+			Btc: 0.393954
+2016-01-22 14:49:50 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 39.25
+			Btc: 0.15507883
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 21.9423
+			Btc: 0.4853703000
+		OkCoin
+			Fiat: 2.82594
+			Btc: 0.393954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: -20.00
+			Btc: 0.05305884
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 20.0443
+			Btc: -0.0530588400
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-22 14:49:51 - INFO - Just executed arbitration opportunity 9370.
+2016-01-22 14:49:51 - INFO - Balances before trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 39.25
+			Btc: 0.15507883
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 21.9423
+			Btc: 0.4853703000
+		OkCoin
+			Fiat: 2.82594
+			Btc: 0.393954
+2016-01-22 14:50:02 - WARN - Arbitration trade 9370 did not execute. Buy order did not get filled. 
+2016-01-22 14:50:02 - INFO - Balances after trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 19.25
+			Btc: 0.15507883
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 41.9866
+			Btc: 0.4323114600
+		OkCoin
+			Fiat: 2.82594
+			Btc: 0.393954
+Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: -20.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 20.0443
+			Btc: -0.0530588400
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-22 14:50:04 - INFO - Just executed arbitration opportunity 9371.
+2016-01-22 14:50:04 - INFO - Balances before trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 19.25
+			Btc: 0.15507883
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 41.9866
+			Btc: 0.4323114600
+		OkCoin
+			Fiat: 2.82594
+			Btc: 0.393954
+2016-01-22 14:50:13 - WARN - Arbitration trade 9371 did not execute. Buy order did not get filled. 
+2016-01-22 14:50:13 - INFO - Balances after trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 0.01
+			Btc: 0.15507883
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 61.2692
+			Btc: 0.3812688600
+		OkCoin
+			Fiat: 2.82594
+			Btc: 0.393954
+Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: -19.24
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 19.2826
+			Btc: -0.0510426000
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-22 15:00:41 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:00:42 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:00:48 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:00:49 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:00:55 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:00:56 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:02 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:02 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:08 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:11 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:17 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:19 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:24 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:25 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:30 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:32 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:38 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:38 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:44 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:45 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:50 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:51 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:56 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:01:57 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:02 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:04 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:09 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:11 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:16 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:18 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:23 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:24 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:29 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:30 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:35 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:36 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:42 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:42 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:48 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:49 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:55 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:02:55 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:01 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:02 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:07 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:08 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:14 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:14 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:20 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:21 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:27 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:27 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:33 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:34 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:40 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:41 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:47 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:47 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:53 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:53 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:59 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:03:59 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:04:05 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:04:07 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:04:13 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:04:14 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:04:19 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:04:20 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:04:26 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:04:27 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:04:33 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:04:35 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:04:41 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:04:54 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:00 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:01 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:07 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:08 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:13 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:14 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:20 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:21 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:26 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:27 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:33 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:33 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:39 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:40 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:45 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:46 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:52 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:52 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:58 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:05:58 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:04 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:04 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:10 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:11 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:16 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:17 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:24 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:25 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:33 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:34 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:39 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:40 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:46 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:46 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:51 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:52 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:57 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:06:58 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:04 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:04 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:10 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:11 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:16 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:17 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:22 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:23 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:29 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:30 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:35 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:36 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:41 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:42 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:48 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:49 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:54 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:07:55 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:00 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:02 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:07 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:08 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:14 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:14 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:20 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:21 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:26 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:27 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:33 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:33 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:39 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:40 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:46 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:46 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:52 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:53 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:58 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:08:59 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:09:05 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:09:27 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:09:33 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:09:34 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:09:40 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:09:41 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:09:47 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:09:48 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:09:53 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:09:57 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:10:02 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:10:03 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:10:08 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:10:09 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:10:15 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:10:16 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:10:21 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:10:22 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:10:28 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:10:29 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:10:35 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:10:35 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:10:41 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:10:49 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:10:56 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:04 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:10 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:11 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:17 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:22 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:28 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:29 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:34 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:35 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:40 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:41 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:46 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:47 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:53 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:54 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:11:59 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:12:06 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:12:11 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:12:22 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:12:28 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:12:28 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:12:34 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:12:34 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:12:40 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:12:48 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:12:54 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:13:03 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:13:09 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:13:10 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:13:16 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:13:25 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:13:31 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:13:33 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:13:38 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:13:38 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:13:44 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:13:45 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:13:50 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:13:51 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:13:57 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:13:57 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:03 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:04 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:09 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:11 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:17 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:18 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:23 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:24 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:30 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:31 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:37 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:38 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:43 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:44 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:49 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:50 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:56 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:14:56 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:15:02 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:15:13 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:15:18 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:15:19 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:15:25 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:15:28 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:15:34 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:15:34 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:15:40 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:15:41 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:15:46 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:15:47 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:15:53 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:15:53 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:15:59 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:00 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:06 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:06 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:12 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:13 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:19 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:19 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:25 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:25 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:31 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:31 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:38 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:38 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:44 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:44 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:50 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:50 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:56 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:16:57 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:02 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:03 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:09 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:10 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:15 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:16 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:22 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:23 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:28 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:28 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:34 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:35 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:40 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:41 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:46 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:50 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:56 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:17:57 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:02 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:03 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:09 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:10 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:15 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:16 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:22 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:22 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:28 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:29 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:35 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:35 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:41 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:41 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:47 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:48 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:54 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:18:54 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:19:00 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:19:01 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:19:07 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:19:07 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:19:13 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:19:14 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:19:19 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:19:20 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:19:25 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:19:26 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:19:32 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:19:33 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:19:38 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:19:39 - WARN - There was a problem updating the order book for ItBit:
+	There was a problem connecting to the ItBit api: The itBit API is currently undergoing maintenance.
+2016-01-22 15:48:09 - WARN - There was an error updating the balances for Kraken: The operation has timed out
+2016-01-22 16:08:31 - WARN - There was an error updating the balances for Kraken: The operation has timed out
+2016-01-22 16:48:11 - WARN - There was an error updating the balances for Kraken: The operation has timed out
+2016-01-22 17:28:10 - WARN - There was an error updating the balances for Kraken: The operation has timed out
+2016-01-22 17:29:46 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 17:30:07 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 17:31:53 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 18:07:23 - WARN - There was an error updating the balances for Kraken: Invalid JSON primitive: .
+2016-01-22 18:27:30 - WARN - There was an error updating the balances for Kraken: Invalid JSON primitive: .
+2016-01-22 18:29:46 - WARN - There was an error updating the balances for Kraken: The operation has timed out
+2016-01-22 18:31:52 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-22 19:08:12 - WARN - There was an error updating the balances for Kraken: The operation has timed out
+2016-01-22 19:10:14 - WARN - There was an error updating the balances for Kraken: The operation has timed out
+2016-01-22 19:18:37 - WARN - There was an error updating the balances for Btce: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 19:18:37 - WARN - There was an error updating the balances for Anx: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 19:18:37 - WARN - There was an error updating the balances for Bitstamp: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 19:18:48 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: code 10002 - Your request lacked a valid signature, and could not be authenticated.
+2016-01-22 19:22:49 - WARN - There was an error updating the balances for Kraken: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 19:23:08 - WARN - There was a problem updating the order book for Kraken:
+	The remote name could not be resolved: 'api.kraken.com'
+2016-01-22 19:23:46 - WARN - There was an error updating the balances for OkCoin: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 19:25:43 - WARN - There was an error updating the balances for Bitstamp: Invalid JSON primitive: .
+2016-01-22 19:26:04 - WARN - There was an error updating the balances for Kraken: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 19:26:16 - WARN - There was a problem updating the order book for Bitstamp:
+	The remote name could not be resolved: 'www.bitstamp.net'
+2016-01-22 19:27:45 - WARN - There was an error updating the balances for Btce: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 19:28:09 - WARN - There was an error updating the balances for Bitstamp: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 19:29:20 - WARN - There was an error updating the balances for Bitstamp: Invalid JSON primitive: .
+2016-01-22 19:29:43 - WARN - There was an error updating the balances for Anx: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 19:29:57 - WARN - There was a problem updating the order book for Anx:
+	The remote name could not be resolved: 'anxpro.com'
+2016-01-22 19:31:22 - WARN - There was an error updating the balances for OkCoin: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 19:31:26 - WARN - There was an error updating the balances for Anx: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 19:32:16 - WARN - There was a problem updating the order book for OkCoin:
+	The remote name could not be resolved: 'www.okcoin.com'
+2016-01-22 20:10:23 - WARN - There was an error updating the balances for Kraken: Invalid JSON primitive: .
+2016-01-22 22:20:09 - WARN - There was an error updating the balances for Kraken: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 22:20:22 - WARN - There was an error updating the balances for Anx: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 22:26:45 - WARN - There was an error updating the balances for Anx: The remote name could not be resolved: 'anxpro.com'
+2016-01-22 22:26:50 - WARN - There was an error updating the balances for Bitstamp: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 22:26:50 - WARN - There was an error updating the balances for Btce: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 22:26:50 - WARN - There was an error updating the balances for OkCoin: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 22:26:52 - WARN - There was an error updating the balances for Kraken: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 22:26:55 - WARN - There was an error updating the balances for ItBit: There was a problem connecting to the ItBit api: code 10002 - Your request lacked a valid signature, and could not be authenticated.
+2016-01-22 22:27:07 - WARN - There was a problem updating the order book for Bitstamp:
+	The remote name could not be resolved: 'www.bitstamp.net'
+2016-01-22 22:27:09 - WARN - There was a problem updating the order book for Anx:
+	The remote name could not be resolved: 'anxpro.com'
+2016-01-22 22:27:09 - WARN - There was a problem updating the order book for OkCoin:
+	The remote name could not be resolved: 'www.okcoin.com'
+2016-01-22 22:27:26 - WARN - There was an error updating the balances for Bitstamp: The remote name could not be resolved: 'www.bitstamp.net'
+2016-01-22 22:27:28 - WARN - There was an error updating the balances for ItBit: The remote name could not be resolved: 'api.itbit.com'
+2016-01-22 22:27:28 - WARN - There was an error updating the balances for Anx: The remote name could not be resolved: 'anxpro.com'
+2016-01-22 22:27:28 - WARN - There was an error updating the balances for OkCoin: The remote name could not be resolved: 'www.okcoin.com'
+2016-01-22 22:28:04 - WARN - There was an error updating the balances for Bitstamp: Invalid JSON primitive: .
+2016-01-22 22:30:19 - WARN - There was an error updating the balances for Bitstamp: Invalid JSON primitive: .
+2016-01-22 22:31:00 - WARN - There was an error updating the balances for Kraken: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 22:31:16 - WARN - There was a problem updating the order book for Kraken:
+	The remote name could not be resolved: 'api.kraken.com'
+2016-01-22 22:31:17 - WARN - There was a problem updating the order book for OkCoin:
+	The remote name could not be resolved: 'www.okcoin.com'
+2016-01-22 22:31:17 - WARN - There was a problem updating the order book for Btce:
+	The remote name could not be resolved: 'btc-e.com'
+2016-01-22 22:32:00 - WARN - There was an error updating the balances for Bitstamp: Invalid JSON primitive: .
+2016-01-22 22:32:08 - WARN - There was an error updating the balances for Btce: The remote name could not be resolved: 'btc-e.com'
+2016-01-22 22:32:08 - WARN - There was an error updating the balances for Anx: The remote name could not be resolved: 'anxpro.com'
+2016-01-22 22:32:09 - WARN - There was an error updating the balances for Kraken: The remote name could not be resolved: 'api.kraken.com'
+2016-01-22 22:32:10 - WARN - There was an error updating the balances for OkCoin: The remote name could not be resolved: 'www.okcoin.com'
+2016-01-22 22:32:43 - WARN - There was an error updating the balances for Bitstamp: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 22:34:05 - WARN - There was an error updating the balances for Kraken: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 22:34:09 - WARN - There was an error updating the balances for Bitstamp: The remote name could not be resolved: 'www.bitstamp.net'
+2016-01-22 22:34:12 - WARN - There was an error updating the balances for OkCoin: The remote name could not be resolved: 'www.okcoin.com'
+2016-01-22 22:34:29 - WARN - There was a problem updating the order book for Bitstamp:
+	The remote name could not be resolved: 'www.bitstamp.net'
+2016-01-22 22:34:31 - WARN - There was a problem updating the order book for OkCoin:
+	The remote name could not be resolved: 'www.okcoin.com'
+2016-01-22 22:34:57 - WARN - There was an error updating the balances for Bitstamp: The remote name could not be resolved: 'www.bitstamp.net'
+2016-01-22 22:35:00 - WARN - There was an error updating the balances for OkCoin: The remote name could not be resolved: 'www.okcoin.com'
+2016-01-22 22:36:32 - WARN - There was an error updating the balances for Bitstamp: Invalid JSON primitive: .
+2016-01-22 22:36:40 - WARN - There was an error updating the balances for Btce: The remote name could not be resolved: 'btc-e.com'
+2016-01-22 22:36:41 - WARN - There was an error updating the balances for OkCoin: The remote name could not be resolved: 'www.okcoin.com'
+2016-01-22 22:50:10 - WARN - There was an error updating the balances for Bitstamp: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 22:50:10 - WARN - There was an error updating the balances for Btce: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 22:50:10 - WARN - There was an error updating the balances for Anx: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 22:50:10 - WARN - There was an error updating the balances for OkCoin: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 22:50:10 - WARN - There was an error updating the balances for Kraken: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-22 22:50:33 - WARN - There was an error updating the balances for ItBit: The remote name could not be resolved: 'api.itbit.com'
+2016-01-22 22:50:45 - WARN - There was a problem updating the order book for Bitstamp:
+	The remote name could not be resolved: 'www.bitstamp.net'
+2016-01-22 22:50:47 - WARN - There was a problem updating the order book for Anx:
+	The remote name could not be resolved: 'anxpro.com'
+2016-01-22 22:50:47 - WARN - There was a problem updating the order book for ItBit:
+	The remote name could not be resolved: 'api.itbit.com'
+2016-01-22 22:50:47 - WARN - There was a problem updating the order book for Btce:
+	The remote name could not be resolved: 'btc-e.com'
+2016-01-22 22:50:47 - WARN - There was a problem updating the order book for OkCoin:
+	The remote name could not be resolved: 'www.okcoin.com'
+2016-01-22 22:50:47 - WARN - There was a problem updating the order book for Kraken:
+	The remote name could not be resolved: 'api.kraken.com'
+2016-01-22 22:51:04 - WARN - There was an error updating the balances for Bitstamp: The remote name could not be resolved: 'www.bitstamp.net'
+2016-01-22 22:51:07 - WARN - There was an error updating the balances for Anx: The remote name could not be resolved: 'anxpro.com'
+2016-01-22 22:51:07 - WARN - There was an error updating the balances for Btce: The remote name could not be resolved: 'btc-e.com'
+2016-01-22 22:51:07 - WARN - There was an error updating the balances for ItBit: The remote name could not be resolved: 'api.itbit.com'
+2016-01-22 22:51:07 - WARN - There was an error updating the balances for OkCoin: The remote name could not be resolved: 'www.okcoin.com'
+2016-01-22 22:51:07 - WARN - There was an error updating the balances for Kraken: The remote name could not be resolved: 'api.kraken.com'
+2016-01-22 22:52:50 - WARN - There was an error updating the balances for Bitstamp: Invalid JSON primitive: .
+2016-01-23 02:26:22 - INFO - Just executed arbitration opportunity 9372.
+2016-01-23 02:26:22 - INFO - Balances before trade:
+		Anx
+			Fiat: 234.77775
+			Btc: 0.02199115
+		Bitstamp
+			Fiat: 59.92
+			Btc: 0.25918027
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 61.2692
+			Btc: 0.3812688600
+		OkCoin
+			Fiat: 2.82594
+			Btc: 0.393954
+2016-01-23 02:26:29 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.07445112
+		Bitstamp
+			Fiat: 59.92
+			Btc: 0.25918027
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 81.6283
+			Btc: 0.3288088900
+		OkCoin
+			Fiat: 2.82594
+			Btc: 0.393954
+	Differences: 
+		Anx
+			Fiat: -20.00000
+			Btc: 0.05245997
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 20.3591
+			Btc: -0.0524599700
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-23 02:26:43 - INFO - Just executed arbitration opportunity 9373.
+2016-01-23 02:26:43 - INFO - Balances before trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.07445112
+		Bitstamp
+			Fiat: 59.92
+			Btc: 0.25918027
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 81.6283
+			Btc: 0.3288088900
+		OkCoin
+			Fiat: 2.82594
+			Btc: 0.393954
+2016-01-23 02:26:51 - WARN - Arbitration trade 9373 did not execute. Sell order did not get filled. 
+2016-01-23 02:26:51 - INFO - Balances after trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.07445112
+		Bitstamp
+			Fiat: 39.92
+			Btc: 0.31046330
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 81.6283
+			Btc: 0.3288088900
+		OkCoin
+			Fiat: 2.82594
+			Btc: 0.393954
+Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: -20.00
+			Btc: 0.05128303
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 0.0000
+			Btc: 0.0000000000
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-23 02:30:57 - WARN - There was an error updating the balances for Btce: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-23 04:43:57 - INFO - Just executed arbitration opportunity 9374.
+2016-01-23 04:43:57 - INFO - Balances before trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 39.92
+			Btc: 0.31046330
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 81.6283
+			Btc: 0.3288088900
+		OkCoin
+			Fiat: 2.82594
+			Btc: 0.393954
+2016-01-23 04:44:05 - WARN - Realized profit for arbitration trade 9374 was more than 2% greater than the expected profit. Expected profit = 0.01977, realized profit = 0.02980000.
+2016-01-23 04:44:05 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 19.93
+			Btc: 0.36144230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 101.6481
+			Btc: 0.2778298900
+		OkCoin
+			Fiat: 2.82594
+			Btc: 0.393954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: -19.99
+			Btc: 0.05097900
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 20.0198
+			Btc: -0.0509790000
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-23 08:52:31 - WARN - There was an error updating the balances for Kraken: Invalid JSON primitive: .
+2016-01-23 08:53:20 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-23 08:53:59 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-23 08:55:05 - WARN - There was an error updating the balances for Kraken: Invalid JSON primitive: .
+2016-01-23 08:55:47 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-23 08:55:55 - WARN - There was an error updating the balances for Kraken: Invalid JSON primitive: .
+2016-01-23 08:56:17 - WARN - There was a problem updating the order book for Kraken:
+	Invalid JSON primitive: .
+2016-01-23 08:57:23 - WARN - There was an error updating the balances for Kraken: Invalid JSON primitive: .
+2016-01-23 08:58:00 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-23 08:58:38 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-23 08:59:17 - WARN - There was an error updating the balances for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-01-23 09:00:38 - WARN - There was an error updating the balances for Kraken: Invalid JSON primitive: .
+2016-01-23 09:01:27 - INFO - Just executed arbitration opportunity 9375.
+2016-01-23 09:01:27 - INFO - Balances before trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 19.93
+			Btc: 0.36144230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 101.6481
+			Btc: 0.2778298900
+		OkCoin
+			Fiat: 2.82594
+			Btc: 0.393954
+2016-01-23 09:01:52 - WARN - Realized profit for arbitration trade 9375 was more than 2% greater than the expected profit. Expected profit = 0.01006, realized profit = 0.01070000.
+2016-01-23 09:01:52 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 19.93
+			Btc: 0.36144230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 82.0076
+			Btc: 0.3288298900
+		OkCoin
+			Fiat: 22.47714
+			Btc: 0.342954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: -19.6405
+			Btc: 0.0510000000
+		OkCoin
+			Fiat: 19.65120
+			Btc: -0.051000
+2016-01-23 09:01:58 - INFO - Just executed arbitration opportunity 9376.
+2016-01-23 09:01:59 - INFO - Balances before trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 19.93
+			Btc: 0.36144230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 82.0076
+			Btc: 0.3288298900
+		OkCoin
+			Fiat: 22.47714
+			Btc: 0.342954
+2016-01-23 09:02:24 - WARN - Realized profit for arbitration trade 9376 was more than 2% greater than the expected profit. Expected profit = 0.08686, realized profit = 0.12660000.
+2016-01-23 09:02:24 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 19.93
+			Btc: 0.36144230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 62.3671
+			Btc: 0.3798298900
+		OkCoin
+			Fiat: 42.24424
+			Btc: 0.291954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: -19.6405
+			Btc: 0.0510000000
+		OkCoin
+			Fiat: 19.76710
+			Btc: -0.051000
+2016-01-23 09:02:27 - INFO - Just executed arbitration opportunity 9377.
+2016-01-23 09:02:27 - INFO - Balances before trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 19.93
+			Btc: 0.36144230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 62.3671
+			Btc: 0.3798298900
+		OkCoin
+			Fiat: 42.24424
+			Btc: 0.291954
+2016-01-23 09:02:34 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 19.93
+			Btc: 0.36144230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 42.7266
+			Btc: 0.4308298900
+		OkCoin
+			Fiat: 62.04404
+			Btc: 0.240954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: -19.6405
+			Btc: 0.0510000000
+		OkCoin
+			Fiat: 19.79980
+			Btc: -0.051000
+2016-01-23 09:02:35 - INFO - Just executed arbitration opportunity 9378.
+2016-01-23 09:02:35 - INFO - Balances before trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 19.93
+			Btc: 0.36144230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 42.7266
+			Btc: 0.4308298900
+		OkCoin
+			Fiat: 62.04404
+			Btc: 0.240954
+2016-01-23 09:02:44 - WARN - Arbitration trade 9378 did not execute. Buy order did not get filled. 
+2016-01-23 09:02:44 - INFO - Balances after trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.36144230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 42.7266
+			Btc: 0.4308298900
+		OkCoin
+			Fiat: 81.86874
+			Btc: 0.189954
+Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: -19.80
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 0.0000
+			Btc: 0.0000000000
+		OkCoin
+			Fiat: 19.82470
+			Btc: -0.051000
+2016-01-23 09:03:02 - INFO - Just executed arbitration opportunity 9379.
+2016-01-23 09:03:02 - INFO - Balances before trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.36144230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 42.7266
+			Btc: 0.4308298900
+		OkCoin
+			Fiat: 81.86874
+			Btc: 0.189954
+2016-01-23 09:03:14 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.36144230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 23.0861
+			Btc: 0.4818298900
+		OkCoin
+			Fiat: 101.73614
+			Btc: 0.138954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: -19.6405
+			Btc: 0.0510000000
+		OkCoin
+			Fiat: 19.86740
+			Btc: -0.051000
+2016-01-23 09:03:17 - INFO - Just executed arbitration opportunity 9380.
+2016-01-23 09:03:18 - INFO - Balances before trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.36144230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 23.0861
+			Btc: 0.4818298900
+		OkCoin
+			Fiat: 101.73614
+			Btc: 0.138954
+2016-01-23 09:03:27 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.36144230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 3.4456
+			Btc: 0.5328298900
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: -19.6405
+			Btc: 0.0510000000
+		OkCoin
+			Fiat: 19.86230
+			Btc: -0.051000
+2016-01-23 09:03:33 - WARN - There was an error updating the balances for Bitstamp: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-01-23 14:31:26 - INFO - Just executed arbitration opportunity 9381.
+2016-01-23 14:31:26 - INFO - Balances before trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 3.4456
+			Btc: 0.5328298900
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+2016-01-23 14:31:34 - WARN - Realized profit for arbitration trade 9381 was more than 2% greater than the expected profit. Expected profit = 0.0620206800000, realized profit = 20.06200000.Bitcoin balance after arbitration trade 9381 decreased by more than 2%. Bitcoin balance before trade = 1.7755847600, bitcoin balance after trade = 1.7243476500.
+2016-01-23 14:31:35 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 214.77775
+			Btc: 0.02316809
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 23.5076
+			Btc: 0.4815927800
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 20.0620
+			Btc: -0.0512371100
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-23 14:36:34 - INFO - Just executed arbitration opportunity 9382.
+2016-01-23 14:36:34 - INFO - Balances before trade:
+		Anx
+			Fiat: 194.77775
+			Btc: 0.07440520
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 23.5076
+			Btc: 0.4815927800
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+2016-01-23 14:36:41 - WARN - Realized profit for arbitration trade 9382 was more than 2% greater than the expected profit. Expected profit = 0.0104906800000, realized profit = 20.01050000.Bitcoin balance after arbitration trade 9382 decreased by more than 2%. Bitcoin balance before trade = 1.7755847600, bitcoin balance after trade = 1.7243476500.
+2016-01-23 14:36:41 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 194.77775
+			Btc: 0.07440520
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 43.5181
+			Btc: 0.4303556700
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 20.0105
+			Btc: -0.0512371100
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-23 14:36:43 - INFO - Just executed arbitration opportunity 9383.
+2016-01-23 14:36:43 - INFO - Balances before trade:
+		Anx
+			Fiat: 194.77775
+			Btc: 0.07440520
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 43.5181
+			Btc: 0.4303556700
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+2016-01-23 14:36:51 - WARN - Realized profit for arbitration trade 9383 was more than 2% greater than the expected profit. Expected profit = 0.0107506800000, realized profit = 20.01070000.Bitcoin balance after arbitration trade 9383 decreased by more than 2%. Bitcoin balance before trade = 1.7243476500, bitcoin balance after trade = 1.6731105400.
+2016-01-23 14:36:51 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 194.77775
+			Btc: 0.07440520
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 63.5288
+			Btc: 0.3791185600
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 20.0107
+			Btc: -0.0512371100
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-23 14:36:54 - INFO - Just executed arbitration opportunity 9384.
+2016-01-23 14:36:54 - INFO - Balances before trade:
+		Anx
+			Fiat: 194.77775
+			Btc: 0.07440520
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 63.5288
+			Btc: 0.3791185600
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+2016-01-23 14:37:01 - WARN - Realized profit for arbitration trade 9384 was more than 2% greater than the expected profit. Expected profit = 0.0107506800000, realized profit = 20.01070000.Bitcoin balance after arbitration trade 9384 decreased by more than 2%. Bitcoin balance before trade = 1.6731105400, bitcoin balance after trade = 1.6218734300.
+2016-01-23 14:37:01 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 194.77775
+			Btc: 0.07440520
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 83.5395
+			Btc: 0.3278814500
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 20.0107
+			Btc: -0.0512371100
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-23 14:37:02 - INFO - Just executed arbitration opportunity 9385.
+2016-01-23 14:37:02 - INFO - Balances before trade:
+		Anx
+			Fiat: 194.77775
+			Btc: 0.07440520
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 227.79695398
+			Btc: 0.17783126
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 83.5395
+			Btc: 0.3278814500
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+2016-01-23 14:37:08 - WARN - Realized profit for arbitration trade 9385 was more than 2% less than the expected profit. Expected profit = 0.0627261600000, realized profit = -59.93727452.Bitcoin balance after arbitration trade 9385 increased by more than 2%. Bitcoin balance before trade = 1.6218734300, bitcoin balance after trade = 1.7755847600.
+2016-01-23 14:37:09 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 114.77775
+			Btc: 0.27935364
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 247.85967946
+			Btc: 0.12659415
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 83.5395
+			Btc: 0.3278814500
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+	Differences: 
+		Anx
+			Fiat: -80.00000
+			Btc: 0.20494844
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 20.06272548
+			Btc: -0.05123711
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 0.0000
+			Btc: 0.0000000000
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-23 14:37:10 - INFO - Just executed arbitration opportunity 9386.
+2016-01-23 14:37:10 - INFO - Balances before trade:
+		Anx
+			Fiat: 114.77775
+			Btc: 0.27935364
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 247.85967946
+			Btc: 0.12659415
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 83.5395
+			Btc: 0.3278814500
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+2016-01-23 14:37:16 - WARN - Realized profit for arbitration trade 9386 was more than 2% greater than the expected profit. Expected profit = 0.0112606800000, realized profit = 20.01120000.Bitcoin balance after arbitration trade 9386 decreased by more than 2%. Bitcoin balance before trade = 1.7755847600, bitcoin balance after trade = 1.7243476500.
+2016-01-23 14:37:16 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 114.77775
+			Btc: 0.27935364
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 247.85967946
+			Btc: 0.12659415
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 103.5507
+			Btc: 0.2766443400
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 20.0112
+			Btc: -0.0512371100
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-23 14:37:17 - INFO - Just executed arbitration opportunity 9387.
+2016-01-23 14:37:17 - INFO - Balances before trade:
+		Anx
+			Fiat: 114.77775
+			Btc: 0.27935364
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 247.85967946
+			Btc: 0.12659415
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 103.5507
+			Btc: 0.2766443400
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+2016-01-23 14:37:23 - WARN - Realized profit for arbitration trade 9387 was more than 2% greater than the expected profit. Expected profit = 0.0117706800000, realized profit = 20.01170000.Bitcoin balance after arbitration trade 9387 decreased by more than 2%. Bitcoin balance before trade = 1.7243476500, bitcoin balance after trade = 1.6731105400.
+2016-01-23 14:37:24 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 114.77775
+			Btc: 0.27935364
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 247.85967946
+			Btc: 0.12659415
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 123.5624
+			Btc: 0.2254072300
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 20.0117
+			Btc: -0.0512371100
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-23 14:37:25 - INFO - Just executed arbitration opportunity 9388.
+2016-01-23 14:37:25 - INFO - Balances before trade:
+		Anx
+			Fiat: 114.77775
+			Btc: 0.27935364
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 247.85967946
+			Btc: 0.12659415
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 123.5624
+			Btc: 0.2254072300
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+2016-01-23 14:37:32 - WARN - Realized profit for arbitration trade 9388 was more than 2% greater than the expected profit. Expected profit = 0.0117706800000, realized profit = 20.01230000.Bitcoin balance after arbitration trade 9388 decreased by more than 2%. Bitcoin balance before trade = 1.6731105400, bitcoin balance after trade = 1.6218734300.
+2016-01-23 14:37:32 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 114.77775
+			Btc: 0.27935364
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 247.85967946
+			Btc: 0.12659415
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 143.5747
+			Btc: 0.1741701200
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 20.0123
+			Btc: -0.0512371100
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-23 14:37:34 - INFO - Just executed arbitration opportunity 9389.
+2016-01-23 14:37:34 - INFO - Balances before trade:
+		Anx
+			Fiat: 114.77775
+			Btc: 0.27935364
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 247.85967946
+			Btc: 0.12659415
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 143.5747
+			Btc: 0.1741701200
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+2016-01-23 14:37:40 - WARN - Realized profit for arbitration trade 9389 was more than 2% less than the expected profit. Expected profit = 0.0128006800000, realized profit = -59.98719000.Bitcoin balance after arbitration trade 9389 increased by more than 2%. Bitcoin balance before trade = 1.6218734300, bitcoin balance after trade = 1.7755847600.
+2016-01-23 14:37:40 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 34.77776
+			Btc: 0.48430208
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 247.85967946
+			Btc: 0.12659415
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 163.5875
+			Btc: 0.1229330100
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+	Differences: 
+		Anx
+			Fiat: -79.99999
+			Btc: 0.20494844
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 20.0128
+			Btc: -0.0512371100
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-23 14:37:41 - INFO - Just executed arbitration opportunity 9390.
+2016-01-23 14:37:41 - INFO - Balances before trade:
+		Anx
+			Fiat: 34.77776
+			Btc: 0.48430208
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 247.85967946
+			Btc: 0.12659415
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 163.5875
+			Btc: 0.1229330100
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+2016-01-23 14:37:47 - WARN - Realized profit for arbitration trade 9390 was more than 2% greater than the expected profit. Expected profit = 0.0112606800000, realized profit = 20.01120000.Bitcoin balance after arbitration trade 9390 decreased by more than 2%. Bitcoin balance before trade = 1.7755847600, bitcoin balance after trade = 1.7243476500.
+2016-01-23 14:37:47 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 34.77776
+			Btc: 0.48430208
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 247.85967946
+			Btc: 0.12659415
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 183.5987
+			Btc: 0.0716959000
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 20.0112
+			Btc: -0.0512371100
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-23 14:37:49 - ERROR - There was a problem executing arbitration trade 9391: 
+	There was a problem connecting to the Anx api: Insufficient Funds.
+2016-01-23 14:37:49 - INFO - Just executed arbitration opportunity 9391.
+2016-01-23 14:37:49 - INFO - Balances before trade:
+		Anx
+			Fiat: 34.77776
+			Btc: 0.48430208
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 247.85967946
+			Btc: 0.12659415
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 183.5987
+			Btc: 0.0716959000
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+2016-01-23 14:37:56 - INFO - Arbitration hunting stopped. Arbitration run ID = 8901.
+2016-01-23 14:37:56 - ERROR - Unexpected error with the arbitration run: 
+System.Exception: Could not get information for order  at Anx; order is either not valid or has already been cancelled.
+   at BitcoinExchanges.Anx.IsOrderFulfilled(String orderId) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Anx.cs:line 196
+   at ArbitrationSimulator.OpportunityValidator.ValidateArbitrationTradeOrderExecution(ArbitrationOpportunity arbitrationTrade) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\OpportunityValidator.cs:line 140
+   at ArbitrationSimulator.ArbitrationManager.IntervalElapsed(Object source, ElapsedEventArgs e) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 227
+2016-01-23 16:52:03 - INFO - Arbitration hunting stopped. Arbitration run ID = 8901.

@@ -1,0 +1,3060 @@
+2016-02-04 00:04:35 - INFO - Arbitration hunting started. Arbitration run ID = 8971.
+2016-02-04 00:19:51 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 00:20:20 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 00:38:51 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 00:41:02 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 00:47:21 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 00:52:12 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 00:54:51 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 00:57:03 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 01:01:48 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 01:05:22 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 01:10:35 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 01:15:23 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 01:20:40 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 01:21:02 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 01:25:30 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 01:27:19 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 01:27:54 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 01:30:34 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 01:36:33 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 01:46:34 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 01:49:01 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 01:52:49 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 01:53:39 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 02:00:11 - WARN - There was an error updating account info for OkCoin: Invalid JSON primitive: .
+2016-02-04 02:04:31 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 02:05:00 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 02:09:22 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 02:10:13 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 02:18:58 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 02:24:10 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 02:26:48 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 02:28:32 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 02:32:09 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 02:34:19 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 02:35:35 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 02:36:05 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 02:36:28 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 02:36:59 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 02:41:43 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:41:49 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:44:16 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 02:48:53 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 02:49:32 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 02:53:03 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 02:55:44 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:55:50 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:56:11 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:56:17 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:56:39 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:56:45 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:57:04 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:57:26 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:57:40 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:57:46 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:57:52 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:58:15 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 02:58:21 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:58:28 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:59:07 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:59:13 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 02:59:22 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:00:01 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:00:21 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:00:26 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:00:36 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:00:49 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:00:55 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:01:01 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:01:11 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:01:19 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:01:32 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:02:51 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:04:40 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:05:43 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 03:09:35 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:11:49 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:19:50 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 03:20:29 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:23:32 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 03:24:12 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:26:19 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:29:01 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:30:23 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:36:27 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:39:15 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:40:06 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:40:47 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:42:09 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:44:10 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 03:44:31 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 03:45:35 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:47:33 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:49:04 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 03:49:17 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:49:33 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:50:11 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:50:17 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:50:25 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:50:31 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:50:38 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:50:44 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:50:51 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:51:14 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:51:21 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:51:39 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:52:17 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:52:23 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:52:31 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:52:38 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:52:57 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:53:03 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:53:12 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:53:19 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:53:25 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:53:32 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:53:40 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:54:03 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:54:29 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:54:36 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:54:43 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:54:50 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:54:57 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:55:03 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:55:26 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:55:31 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:55:38 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:55:49 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:55:56 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:56:03 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:56:09 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:56:35 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:56:41 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:57:04 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 03:57:10 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:57:17 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:57:41 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:57:47 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:57:53 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:58:03 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:58:09 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:58:29 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:58:36 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:58:43 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:58:49 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:58:55 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:59:02 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:59:27 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:59:33 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 03:59:56 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:00:02 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:00:31 - WARN - There was an error updating account info for OkCoin: Invalid JSON primitive: .
+2016-02-04 04:00:41 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:00:50 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:01:02 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:01:48 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:01:58 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:02:20 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:02:41 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:02:48 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:02:59 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:03:05 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:03:11 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:03:20 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:03:42 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:03:50 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:03:56 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:04:02 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:04:09 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:04:18 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:04:24 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:04:31 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:04:54 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:05:00 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:05:07 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:05:13 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:05:24 - WARN - There was an error updating account info for OkCoin: Invalid JSON primitive: .
+2016-02-04 04:05:30 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:05:37 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:06:00 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:06:07 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:06:13 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:06:20 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:06:29 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:06:36 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:06:46 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:07:20 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:07:28 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:07:35 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:07:43 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:07:55 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:08:04 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:08:15 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:08:26 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:08:33 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:08:41 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:08:49 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:08:56 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:09:02 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:18:13 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 04:20:38 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 04:21:57 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 04:25:08 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:25:36 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:26:42 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:27:40 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:30:19 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 04:33:08 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:37:17 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:38:05 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:40:15 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:42:07 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:46:03 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:47:13 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 04:48:59 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:50:05 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:50:29 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:50:35 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:50:42 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:51:20 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:51:39 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:51:45 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:51:51 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:51:57 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:52:15 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:52:21 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:52:43 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:53:04 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:53:27 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:53:48 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:53:54 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:54:00 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:54:21 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:54:27 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:54:34 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:54:49 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:55:10 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:55:19 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:55:41 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:56:01 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:56:08 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:56:15 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:56:22 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:56:45 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:56:51 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:56:58 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:57:05 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:57:26 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:57:32 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:57:54 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:57:59 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:58:25 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:58:31 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:58:43 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:58:49 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:58:56 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:59:19 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 04:59:27 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:59:36 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 04:59:42 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:00:06 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:00:14 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:00:20 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:00:26 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:00:33 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:00:39 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:00:46 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:00:53 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:01:29 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:01:42 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:01:48 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:01:54 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:02:03 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:02:25 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:02:48 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:02:54 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:03:00 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:03:32 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:03:49 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:03:55 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:04:01 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:04:08 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:04:14 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:04:34 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:04:54 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:05:15 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:05:28 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:05:41 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:05:47 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:05:53 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:05:59 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:06:17 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:06:23 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:06:29 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:06:36 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:06:50 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:07:11 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:07:32 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:07:38 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:07:44 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:07:50 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:08:12 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:08:18 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:08:38 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:08:44 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:09:19 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:09:41 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:09:47 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:09:53 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EGeneral:Temporary lockout
+2016-02-04 05:12:43 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:13:40 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:14:36 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:16:00 - WARN - There was an error updating account info for OkCoin: Invalid JSON primitive: .
+2016-02-04 05:17:04 - WARN - There was a problem updating the order book for OkCoin:
+	Invalid JSON primitive: .
+2016-02-04 05:18:01 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:22:43 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:23:25 - WARN - There was a problem updating the order book for OkCoin:
+	Invalid JSON primitive: .
+2016-02-04 05:23:47 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:24:50 - WARN - There was a problem updating the order book for OkCoin:
+	Invalid JSON primitive: .
+2016-02-04 05:27:22 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:28:36 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:31:50 - WARN - There was an error updating account info for OkCoin: Invalid JSON primitive: .
+2016-02-04 05:32:39 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:35:03 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:36:19 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:37:14 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:38:28 - WARN - There was an error updating account info for OkCoin: Invalid JSON primitive: .
+2016-02-04 05:41:11 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:41:18 - WARN - There was an error updating account info for OkCoin: Invalid JSON primitive: .
+2016-02-04 05:41:54 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:43:46 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:46:00 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:47:59 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:49:02 - WARN - There was a problem updating the order book for OkCoin:
+	Invalid JSON primitive: .
+2016-02-04 05:50:36 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:52:23 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:53:07 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:55:02 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 05:56:14 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 05:59:30 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:00:10 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:04:55 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:05:23 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:14:50 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-02-04 06:17:15 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:17:56 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 06:19:54 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:20:27 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 06:21:52 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:22:29 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:23:29 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:25:46 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:26:17 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-02-04 06:27:04 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:28:59 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:29:23 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:31:36 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:35:12 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:39:29 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:40:23 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:42:16 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:43:46 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:43:57 - WARN - There was a problem updating the order book for OkCoin:
+	Invalid JSON primitive: .
+2016-02-04 06:45:33 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:47:51 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:50:13 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:51:44 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:52:53 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:55:11 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 06:56:51 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 06:57:26 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:58:31 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 06:59:53 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:03:15 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:06:47 - INFO - Just executed arbitration opportunity 9545.
+2016-02-04 07:06:47 - INFO - Balances before trade:
+		Anx
+			Fiat: 2.26636
+			Btc: 0.61931350
+		Bitstamp
+			Fiat: 0.35
+			Btc: 0.41063507
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.55289700
+			Btc: 0.55035922
+		Kraken
+			Fiat: 213.9395
+			Btc: 0.0003549800
+		OkCoin
+			Fiat: 140.38098
+			Btc: 0.033234
+2016-02-04 07:06:57 - WARN - Realized profit for arbitration trade 9545 was more than 2% greater than the expected profit. Expected profit = 0.00517, realized profit = 0.00720000.
+2016-02-04 07:06:57 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 2.26636
+			Btc: 0.61931350
+		Bitstamp
+			Fiat: 0.35
+			Btc: 0.41063507
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.55289700
+			Btc: 0.55035922
+		Kraken
+			Fiat: 201.4331
+			Btc: 0.0333549800
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: -12.5064
+			Btc: 0.0330000000
+		OkCoin
+			Fiat: 12.51360
+			Btc: -0.033000
+2016-02-04 07:07:18 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:07:30 - INFO - Just executed arbitration opportunity 9546.
+2016-02-04 07:07:30 - INFO - Balances before trade:
+		Anx
+			Fiat: 2.26636
+			Btc: 0.61931350
+		Bitstamp
+			Fiat: 0.35
+			Btc: 0.41063507
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.55289700
+			Btc: 0.55035922
+		Kraken
+			Fiat: 201.4331
+			Btc: 0.0333549800
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+2016-02-04 07:07:50 - WARN - Realized profit for arbitration trade 9546 was more than 2% less than the expected profit. Expected profit = 0.0697840611842896, realized profit = -20.00000000.Bitcoin balance after arbitration trade 9546 increased by more than 2%. Bitcoin balance before trade = 1.7756565200, bitcoin balance after trade = 1.8282845600.
+2016-02-04 07:07:50 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 2.26636
+			Btc: 0.61931350
+		Bitstamp
+			Fiat: 0.35
+			Btc: 0.41063507
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.55289700
+			Btc: 0.55035922
+		Kraken
+			Fiat: 181.4331
+			Btc: 0.0859830200
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: -20.0000
+			Btc: 0.0526280400
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-02-04 07:07:53 - INFO - Just executed arbitration opportunity 9547.
+2016-02-04 07:07:53 - INFO - Balances before trade:
+		Anx
+			Fiat: 2.26636
+			Btc: 0.61931350
+		Bitstamp
+			Fiat: 0.35
+			Btc: 0.41063507
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.55289700
+			Btc: 0.55035922
+		Kraken
+			Fiat: 181.4331
+			Btc: 0.0859830200
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+2016-02-04 07:08:30 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:08:30 - WARN - Arbitration trade 9547 did not execute. Sell order did not get filled. 
+2016-02-04 07:08:30 - INFO - Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 0.35
+			Btc: 0.41063507
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.55289700
+			Btc: 0.49775922
+		Kraken
+			Fiat: 0.0
+			Btc: 0.0
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+Differences: 
+		Anx
+			Fiat: 20.07093
+			Btc: -0.05262804
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: -0.05260000
+		Kraken
+			Fiat: -181.4331
+			Btc: -0.0859830200
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-02-04 07:08:40 - INFO - Just executed arbitration opportunity 9548.
+2016-02-04 07:08:41 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 0.35
+			Btc: 0.41063507
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.55289700
+			Btc: 0.49775922
+		Kraken
+			Fiat: 161.4412
+			Btc: 0.1385830200
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+2016-02-04 07:08:48 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 20.42
+			Btc: 0.35802507
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.55289700
+			Btc: 0.49775922
+		Kraken
+			Fiat: 141.4412
+			Btc: 0.1911930200
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 20.07
+			Btc: -0.05261000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: -20.0000
+			Btc: 0.0526100000
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-02-04 07:08:51 - INFO - Just executed arbitration opportunity 9549.
+2016-02-04 07:08:51 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 20.42
+			Btc: 0.35802507
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.55289700
+			Btc: 0.49775922
+		Kraken
+			Fiat: 141.4412
+			Btc: 0.1911930200
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+2016-02-04 07:09:00 - WARN - Bitcoin balance after arbitration trade 9549 increased by more than 2%. Bitcoin balance before trade = 1.7756565200, bitcoin balance after trade = 1.8282565200.
+2016-02-04 07:09:00 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.55289700
+			Btc: 0.55035922
+		Kraken
+			Fiat: 121.4412
+			Btc: 0.2438016300
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 20.07
+			Btc: -0.05260861
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.05260000
+		Kraken
+			Fiat: -20.0000
+			Btc: 0.0526086100
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-02-04 07:09:02 - INFO - Just executed arbitration opportunity 9550.
+2016-02-04 07:09:02 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.55289700
+			Btc: 0.55035922
+		Kraken
+			Fiat: 121.4412
+			Btc: 0.2438016300
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+2016-02-04 07:09:11 - WARN - Arbitration trade 9550 did not execute. Sell order did not get filled. 
+2016-02-04 07:09:11 - INFO - Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.55289700
+			Btc: 0.49775922
+		Kraken
+			Fiat: 101.4444
+			Btc: 0.2964016300
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: -0.05260000
+		Kraken
+			Fiat: -19.9968
+			Btc: 0.0526000000
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-02-04 07:09:23 - INFO - Just executed arbitration opportunity 9551.
+2016-02-04 07:09:23 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.55289700
+			Btc: 0.49775922
+		Kraken
+			Fiat: 101.4444
+			Btc: 0.2964016300
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+2016-02-04 07:09:32 - WARN - Arbitration trade 9551 did not execute. Sell order did not get filled. Buy order did not get filled. 
+2016-02-04 07:09:32 - INFO - Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.55289700
+			Btc: 0.44545922
+		Kraken
+			Fiat: 81.48027
+			Btc: 0.2964016300
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: -0.05230000
+		Kraken
+			Fiat: -19.96413
+			Btc: 0.0000000000
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-02-04 07:16:40 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:16:59 - WARN - There was an error updating account info for OkCoin: Invalid JSON primitive: .
+2016-02-04 07:18:05 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:18:57 - INFO - Just executed arbitration opportunity 9552.
+2016-02-04 07:18:57 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 23.63840900
+			Btc: 0.49775922
+		Kraken
+			Fiat: 81.48027
+			Btc: 0.2964016300
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+2016-02-04 07:19:40 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.64368800
+			Btc: 0.54985922
+		Kraken
+			Fiat: 101.48657
+			Btc: 0.2443016300
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: -19.99472100
+			Btc: 0.05210000
+		Kraken
+			Fiat: 20.00630
+			Btc: -0.0521000000
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-02-04 07:19:42 - INFO - Just executed arbitration opportunity 9553.
+2016-02-04 07:19:42 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.64368800
+			Btc: 0.54985922
+		Kraken
+			Fiat: 101.48657
+			Btc: 0.2443016300
+		OkCoin
+			Fiat: 152.89458
+			Btc: 0.000234
+2016-02-04 07:20:15 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.64368800
+			Btc: 0.54985922
+		Kraken
+			Fiat: 121.41457
+			Btc: 0.1924056300
+		OkCoin
+			Fiat: 133.00978
+			Btc: 0.05213
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 19.92800
+			Btc: -0.0518960000
+		OkCoin
+			Fiat: -19.88480
+			Btc: 0.051896
+2016-02-04 07:21:28 - WARN - There was an error updating account info for Bitstamp: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-02-04 07:21:43 - INFO - Just executed arbitration opportunity 9554.
+2016-02-04 07:21:43 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 0.0
+			Btc: 0.0
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.64368800
+			Btc: 0.54985922
+		Kraken
+			Fiat: 121.41457
+			Btc: 0.1924056300
+		OkCoin
+			Fiat: 133.00978
+			Btc: 0.05213
+2016-02-04 07:21:50 - WARN - Arbitration trade 9554 did not execute. Sell order did not get filled. 
+2016-02-04 07:21:50 - INFO - Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.64368800
+			Btc: 0.54985922
+		Kraken
+			Fiat: 121.41457
+			Btc: 0.1405096300
+		OkCoin
+			Fiat: 113.11198
+			Btc: 0.104026
+Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 0.00000
+			Btc: -0.0518960000
+		OkCoin
+			Fiat: -19.89780
+			Btc: 0.051896
+2016-02-04 07:21:52 - INFO - Just executed arbitration opportunity 9555.
+2016-02-04 07:21:52 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.64368800
+			Btc: 0.54985922
+		Kraken
+			Fiat: 121.41457
+			Btc: 0.1405096300
+		OkCoin
+			Fiat: 113.11198
+			Btc: 0.104026
+2016-02-04 07:22:18 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.64368800
+			Btc: 0.54985922
+		Kraken
+			Fiat: 141.31927
+			Btc: 0.0886136300
+		OkCoin
+			Fiat: 93.21314
+			Btc: 0.155922
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 19.90470
+			Btc: -0.0518960000
+		OkCoin
+			Fiat: -19.89884
+			Btc: 0.051896
+2016-02-04 07:22:37 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:29:19 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:30:09 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:30:32 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 07:33:08 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:35:05 - INFO - Just executed arbitration opportunity 9556.
+2016-02-04 07:35:05 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.64368800
+			Btc: 0.54985922
+		Kraken
+			Fiat: 161.24447
+			Btc: 0.0886136300
+		OkCoin
+			Fiat: 93.21314
+			Btc: 0.155922
+2016-02-04 07:35:14 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.64368800
+			Btc: 0.54985922
+		Kraken
+			Fiat: 181.14917
+			Btc: 0.0367176300
+		OkCoin
+			Fiat: 73.32366
+			Btc: 0.207818
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 19.90470
+			Btc: -0.0518960000
+		OkCoin
+			Fiat: -19.88948
+			Btc: 0.051896
+2016-02-04 07:35:16 - INFO - Just executed arbitration opportunity 9557.
+2016-02-04 07:35:16 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.64368800
+			Btc: 0.54985922
+		Kraken
+			Fiat: 181.14917
+			Btc: 0.0367176300
+		OkCoin
+			Fiat: 73.32366
+			Btc: 0.207818
+2016-02-04 07:35:34 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 3.64368800
+			Btc: 0.54985922
+		Kraken
+			Fiat: 194.92937
+			Btc: 0.0007896300
+		OkCoin
+			Fiat: 59.5587
+			Btc: 0.243746
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 13.78020
+			Btc: -0.0359280000
+		OkCoin
+			Fiat: -13.76496
+			Btc: 0.035928
+2016-02-04 07:36:43 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:37:38 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:38:18 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:38:59 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:41:13 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:41:33 - WARN - There was an error updating account info for OkCoin: Invalid JSON primitive: .
+2016-02-04 07:42:53 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:46:08 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:46:52 - WARN - There was a problem updating the order book for OkCoin:
+	Invalid JSON primitive: .
+2016-02-04 07:47:45 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:48:55 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:49:40 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:50:32 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:55:29 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:56:05 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:56:36 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:57:43 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:58:35 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 07:59:07 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:00:17 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:02:47 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 08:03:05 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:03:38 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:04:43 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:05:29 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:05:56 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:07:22 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:08:29 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:09:09 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:10:20 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:10:40 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:13:11 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:13:39 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:14:36 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:15:04 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 08:15:38 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:16:35 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:17:00 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:17:00 - WARN - There was a problem updating the order book for Kraken:
+	Invalid JSON primitive: .
+2016-02-04 08:17:59 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:18:31 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:21:56 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:23:37 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:24:24 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:26:45 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:29:33 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:31:03 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:31:54 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:32:42 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:33:41 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:35:03 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:36:43 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:37:24 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:39:09 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:41:00 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:42:24 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:45:52 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:47:55 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:48:29 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:49:41 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:50:07 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:50:51 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:53:37 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:54:57 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:55:51 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 08:56:29 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:57:01 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:57:51 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:59:03 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 08:59:46 - WARN - There was a problem updating the order book for OkCoin:
+	Invalid JSON primitive: .
+2016-02-04 09:00:05 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:00:23 - WARN - There was an error updating account info for OkCoin: Invalid JSON primitive: .
+2016-02-04 09:00:27 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:02:01 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:05:14 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:05:39 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:06:03 - WARN - There was an error updating account info for OkCoin: Invalid JSON primitive: .
+2016-02-04 09:08:04 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:08:51 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:12:08 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:13:00 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:14:55 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:15:31 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:16:13 - WARN - There was an error updating account info for OkCoin: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-02-04 09:16:22 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:17:01 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:17:43 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:19:02 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:19:53 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:20:23 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 09:21:52 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:25:55 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 09:26:28 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:27:39 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:28:38 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:28:58 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:32:28 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:33:05 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:34:45 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:35:34 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:36:39 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 09:36:59 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:37:29 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:38:17 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:39:59 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:40:17 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:45:32 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:46:11 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 09:47:42 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:48:07 - WARN - There was a problem looking for arbitration: 
+Sequence contains no elements
+2016-02-04 09:48:19 - WARN - There was a problem looking for arbitration: 
+Sequence contains no elements
+2016-02-04 09:49:12 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:49:41 - WARN - There was a problem looking for arbitration: 
+Sequence contains no elements
+2016-02-04 09:50:05 - WARN - There was a problem looking for arbitration: 
+Sequence contains no elements
+2016-02-04 09:50:27 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:50:50 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 09:51:24 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:51:52 - WARN - There was a problem looking for arbitration: 
+Sequence contains no elements
+2016-02-04 09:52:00 - WARN - There was a problem looking for arbitration: 
+Sequence contains no elements
+2016-02-04 09:52:32 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:52:46 - WARN - There was a problem looking for arbitration: 
+Sequence contains no elements
+2016-02-04 09:52:52 - WARN - There was a problem looking for arbitration: 
+Sequence contains no elements
+2016-02-04 09:53:01 - WARN - There was a problem looking for arbitration: 
+Sequence contains no elements
+2016-02-04 09:53:10 - WARN - There was a problem looking for arbitration: 
+Sequence contains no elements
+2016-02-04 09:53:29 - WARN - There was a problem looking for arbitration: 
+Sequence contains no elements
+2016-02-04 09:53:47 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:54:03 - WARN - There was a problem looking for arbitration: 
+Sequence contains no elements
+2016-02-04 09:54:10 - WARN - There was a problem looking for arbitration: 
+Sequence contains no elements
+2016-02-04 09:54:17 - WARN - There was a problem looking for arbitration: 
+Sequence contains no elements
+2016-02-04 09:54:49 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:55:22 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:57:06 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:57:43 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 09:58:47 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:00:39 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:00:58 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:01:32 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:03:39 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:04:12 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:05:06 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:06:08 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:06:43 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:07:14 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 10:07:40 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:08:01 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 10:08:49 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 10:09:36 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:10:43 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:11:33 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:12:07 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:13:27 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:13:53 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:14:27 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:16:53 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:18:26 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:19:40 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:20:31 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 10:21:04 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:21:36 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:22:14 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:23:05 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:24:50 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:25:51 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:26:10 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 10:26:45 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:27:17 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:27:49 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-02-04 10:28:31 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:31:20 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:33:52 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:34:25 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:36:05 - INFO - Just executed arbitration opportunity 9558.
+2016-02-04 10:36:05 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 23.82746200
+			Btc: 0.49725922
+		Kraken
+			Fiat: 214.8935
+			Btc: 0.0007896300
+		OkCoin
+			Fiat: 59.5587
+			Btc: 0.243746
+2016-02-04 10:36:38 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:36:39 - WARN - Realized profit for arbitration trade 9558 was more than 2% less than the expected profit. Expected profit = 0.0050, realized profit = -214.88850000.Bitcoin balance after arbitration trade 9558 decreased by more than 2%. Bitcoin balance before trade = 1.7756565200, bitcoin balance after trade = 1.72386689.
+2016-02-04 10:36:39 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 4.17876200
+			Btc: 0.49725922
+		Kraken
+			Fiat: 0.0
+			Btc: 0.0
+		OkCoin
+			Fiat: 79.2124
+			Btc: 0.192746
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: -19.64870000
+			Btc: 0.00000000
+		Kraken
+			Fiat: -214.8935
+			Btc: -0.0007896300
+		OkCoin
+			Fiat: 19.6537
+			Btc: -0.051000
+2016-02-04 10:39:56 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-02-04 10:42:02 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:42:32 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 10:43:43 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 10:44:02 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:46:14 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:46:42 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:49:54 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:51:05 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:52:07 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:52:43 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-02-04 10:53:20 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:53:57 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:56:04 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:57:17 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 10:57:36 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-02-04 10:59:01 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:00:24 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:00:55 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:01:58 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:02:40 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:03:12 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:03:58 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:05:34 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:07:28 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:07:48 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:08:31 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:09:04 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:10:39 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:11:11 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:11:44 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:12:16 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-02-04 11:12:44 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:14:02 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:15:56 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:17:06 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:19:32 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:22:11 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-02-04 11:22:44 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:24:36 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:26:02 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:27:31 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:27:57 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:29:35 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-02-04 11:29:58 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:30:40 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:31:48 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:32:22 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:35:15 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 11:35:56 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:41:41 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:44:42 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-02-04 11:45:31 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:46:46 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:47:06 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:47:40 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:48:11 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:49:16 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:50:06 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:50:26 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:51:22 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:51:58 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:52:38 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:54:10 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:54:39 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:56:00 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:57:05 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:58:02 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 11:58:02 - WARN - There was a problem updating the order book for Kraken:
+	Invalid JSON primitive: .
+2016-02-04 11:59:48 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 12:00:20 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 12:00:52 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 12:04:04 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-02-04 12:05:32 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 12:06:02 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 12:06:48 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 12:07:08 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 12:08:55 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 12:09:22 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 12:10:50 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 12:11:29 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 12:11:48 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EService:Unavailable
+2016-02-04 12:12:20 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 12:13:08 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 12:15:56 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-04 12:18:16 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 12:44:18 - INFO - Just executed arbitration opportunity 9559.
+2016-02-04 12:44:19 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 40.49
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 4.17876200
+			Btc: 0.54825922
+		Kraken
+			Fiat: 214.8935
+			Btc: 0.0007896300
+		OkCoin
+			Fiat: 79.2124
+			Btc: 0.192746
+2016-02-04 12:44:26 - WARN - Arbitration trade 9559 did not execute. Buy order did not get filled. 
+2016-02-04 12:44:26 - INFO - Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 20.83
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 4.17876200
+			Btc: 0.54825922
+		Kraken
+			Fiat: 214.8935
+			Btc: 0.0007896300
+		OkCoin
+			Fiat: 98.9038
+			Btc: 0.141746
+Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: -19.66
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 0.0000
+			Btc: 0.0000000000
+		OkCoin
+			Fiat: 19.6914
+			Btc: -0.051000
+2016-02-04 13:01:53 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-04 16:24:52 - INFO - Just executed arbitration opportunity 9560.
+2016-02-04 16:24:52 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 20.83
+			Btc: 0.30541646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 4.17876200
+			Btc: 0.54825922
+		Kraken
+			Fiat: 214.8935
+			Btc: 0.0007896300
+		OkCoin
+			Fiat: 98.9038
+			Btc: 0.141746
+2016-02-04 16:25:00 - WARN - Realized profit for arbitration trade 9560 was more than 2% greater than the expected profit. Expected profit = 0.008, realized profit = 0.04010000.
+2016-02-04 16:25:00 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 0.94
+			Btc: 0.35641646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 4.17876200
+			Btc: 0.54825922
+		Kraken
+			Fiat: 214.8935
+			Btc: 0.0007896300
+		OkCoin
+			Fiat: 118.8339
+			Btc: 0.090746
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: -19.89
+			Btc: 0.05100000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 0.0000
+			Btc: 0.0000000000
+		OkCoin
+			Fiat: 19.9301
+			Btc: -0.051000
+2016-02-05 00:03:23 - INFO - Arbitration hunting stopped. Arbitration run ID = 8971.
+2016-02-07 20:58:24 - INFO - Arbitration hunting started. Arbitration run ID = 8989.
+2016-02-07 20:58:34 - DEBUG - Bitstamp update time = 284
+2016-02-07 20:58:34 - DEBUG - Btce update time = 360
+2016-02-07 20:58:34 - DEBUG - Anx update time = 424
+2016-02-07 20:58:34 - DEBUG - ItBit update time = 459
+2016-02-07 20:58:34 - DEBUG - Kraken update time = 251
+2016-02-07 20:58:34 - DEBUG - Coinbase update time = 127
+2016-02-07 20:58:34 - DEBUG - OkCoin update time = 202
+2016-02-07 20:58:34 - DEBUG -  Time from time trade it found to executed: 1
+2016-02-07 20:58:34 - INFO - Just executed arbitration opportunity 9585.
+2016-02-07 20:58:34 - INFO - Balances before trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 120
+			Btc: 1.2
+		ItBit
+			Fiat: 120
+			Btc: 1.2
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+2016-02-07 20:58:39 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 140.12087760
+			Btc: 1.147
+		ItBit
+			Fiat: 100.0125
+			Btc: 1.253
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+	Differences: 
+		Anx
+			Fiat: 0
+			Btc: 0.0
+		Bitstamp
+			Fiat: 0
+			Btc: 0.0
+		Btce
+			Fiat: 20.12087760
+			Btc: -0.053
+		ItBit
+			Fiat: -19.9875
+			Btc: 0.053
+		Kraken
+			Fiat: 0
+			Btc: 0.0
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 0
+			Btc: 0.0
+2016-02-07 20:58:39 - DEBUG - ItBit update time = 153
+2016-02-07 20:58:39 - DEBUG - Bitstamp update time = 182
+2016-02-07 20:58:40 - DEBUG - Btce update time = 349
+2016-02-07 20:58:40 - DEBUG - OkCoin update time = 205
+2016-02-07 20:58:40 - DEBUG - Coinbase update time = 129
+2016-02-07 20:58:40 - DEBUG - Anx update time = 964
+2016-02-07 20:58:40 - DEBUG - Kraken update time = 904
+2016-02-07 20:58:40 - DEBUG -  Time from time trade it found to executed: 0
+2016-02-07 20:58:40 - INFO - Just executed arbitration opportunity 9586.
+2016-02-07 20:58:40 - INFO - Balances before trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 140.12087760
+			Btc: 1.147
+		ItBit
+			Fiat: 100.0125
+			Btc: 1.253
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+2016-02-07 20:58:45 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 160.24175520
+			Btc: 1.094
+		ItBit
+			Fiat: 80.0250
+			Btc: 1.306
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+	Differences: 
+		Anx
+			Fiat: 0
+			Btc: 0.0
+		Bitstamp
+			Fiat: 0
+			Btc: 0.0
+		Btce
+			Fiat: 20.12087760
+			Btc: -0.053
+		ItBit
+			Fiat: -19.9875
+			Btc: 0.053
+		Kraken
+			Fiat: 0
+			Btc: 0.0
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 0
+			Btc: 0.0
+2016-02-07 20:58:45 - DEBUG - Bitstamp update time = 143
+2016-02-07 20:58:45 - DEBUG - ItBit update time = 166
+2016-02-07 20:58:46 - DEBUG - Btce update time = 344
+2016-02-07 20:58:46 - DEBUG - OkCoin update time = 225
+2016-02-07 20:58:46 - DEBUG - Anx update time = 407
+2016-02-07 20:58:46 - DEBUG - Coinbase update time = 364
+2016-02-07 20:58:46 - DEBUG - Kraken update time = 715
+2016-02-07 20:58:46 - DEBUG -  Time from time trade it found to executed: 0
+2016-02-07 20:58:46 - INFO - Just executed arbitration opportunity 9587.
+2016-02-07 20:58:46 - INFO - Balances before trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 160.24175520
+			Btc: 1.094
+		ItBit
+			Fiat: 80.0250
+			Btc: 1.306
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+2016-02-07 20:58:51 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 180.36347575
+			Btc: 1.041
+		ItBit
+			Fiat: 60.0375
+			Btc: 1.359
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+	Differences: 
+		Anx
+			Fiat: 0
+			Btc: 0.0
+		Bitstamp
+			Fiat: 0
+			Btc: 0.0
+		Btce
+			Fiat: 20.12172055
+			Btc: -0.053
+		ItBit
+			Fiat: -19.9875
+			Btc: 0.053
+		Kraken
+			Fiat: 0
+			Btc: 0.0
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 0
+			Btc: 0.0
+2016-02-07 20:58:51 - DEBUG - ItBit update time = 122
+2016-02-07 20:58:51 - DEBUG - Bitstamp update time = 153
+2016-02-07 20:58:51 - DEBUG - Btce update time = 361
+2016-02-07 20:58:51 - DEBUG - Anx update time = 413
+2016-02-07 20:58:52 - DEBUG - Coinbase update time = 357
+2016-02-07 20:58:52 - DEBUG - Kraken update time = 608
+2016-02-07 20:58:52 - DEBUG - OkCoin update time = 18
+2016-02-07 20:58:52 - DEBUG -  Time from time trade it found to executed: 0
+2016-02-07 20:58:52 - INFO - Just executed arbitration opportunity 9588.
+2016-02-07 20:58:52 - INFO - Balances before trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 180.36347575
+			Btc: 1.041
+		ItBit
+			Fiat: 60.0375
+			Btc: 1.359
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+2016-02-07 20:58:57 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 200.48519630
+			Btc: 0.988
+		ItBit
+			Fiat: 40.0500
+			Btc: 1.412
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+	Differences: 
+		Anx
+			Fiat: 0
+			Btc: 0.0
+		Bitstamp
+			Fiat: 0
+			Btc: 0.0
+		Btce
+			Fiat: 20.12172055
+			Btc: -0.053
+		ItBit
+			Fiat: -19.9875
+			Btc: 0.053
+		Kraken
+			Fiat: 0
+			Btc: 0.0
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 0
+			Btc: 0.0
+2016-02-07 20:58:57 - DEBUG - ItBit update time = 127
+2016-02-07 20:58:57 - DEBUG - Bitstamp update time = 129
+2016-02-07 20:58:58 - DEBUG - Coinbase update time = 128
+2016-02-07 20:58:58 - DEBUG - Kraken update time = 331
+2016-02-07 20:58:58 - DEBUG - Btce update time = 348
+2016-02-07 20:58:58 - DEBUG - OkCoin update time = 287
+2016-02-07 20:58:58 - DEBUG - Anx update time = 619
+2016-02-07 20:58:58 - DEBUG -  Time from time trade it found to executed: 0
+2016-02-07 20:58:58 - INFO - Just executed arbitration opportunity 9589.
+2016-02-07 20:58:58 - INFO - Balances before trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 200.48519630
+			Btc: 0.988
+		ItBit
+			Fiat: 40.0500
+			Btc: 1.412
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+2016-02-07 20:59:03 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 220.60691685
+			Btc: 0.935
+		ItBit
+			Fiat: 20.0625
+			Btc: 1.465
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+	Differences: 
+		Anx
+			Fiat: 0
+			Btc: 0.0
+		Bitstamp
+			Fiat: 0
+			Btc: 0.0
+		Btce
+			Fiat: 20.12172055
+			Btc: -0.053
+		ItBit
+			Fiat: -19.9875
+			Btc: 0.053
+		Kraken
+			Fiat: 0
+			Btc: 0.0
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 0
+			Btc: 0.0
+2016-02-07 20:59:03 - DEBUG - ItBit update time = 109
+2016-02-07 20:59:03 - DEBUG - Btce update time = 345
+2016-02-07 20:59:03 - DEBUG - OkCoin update time = 294
+2016-02-07 20:59:03 - DEBUG - Anx update time = 422
+2016-02-07 20:59:04 - DEBUG - Coinbase update time = 392
+2016-02-07 20:59:04 - DEBUG - Bitstamp update time = 870
+2016-02-07 20:59:04 - DEBUG - Kraken update time = 148
+2016-02-07 20:59:04 - DEBUG -  Time from time trade it found to executed: 0
+2016-02-07 20:59:04 - INFO - Just executed arbitration opportunity 9590.
+2016-02-07 20:59:04 - INFO - Balances before trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 220.60691685
+			Btc: 0.935
+		ItBit
+			Fiat: 20.0625
+			Btc: 1.465
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+2016-02-07 20:59:09 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 240.72863740
+			Btc: 0.882
+		ItBit
+			Fiat: 0.0750
+			Btc: 1.518
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+	Differences: 
+		Anx
+			Fiat: 0
+			Btc: 0.0
+		Bitstamp
+			Fiat: 0
+			Btc: 0.0
+		Btce
+			Fiat: 20.12172055
+			Btc: -0.053
+		ItBit
+			Fiat: -19.9875
+			Btc: 0.053
+		Kraken
+			Fiat: 0
+			Btc: 0.0
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 0
+			Btc: 0.0
+2016-02-07 20:59:09 - DEBUG - Bitstamp update time = 109
+2016-02-07 20:59:09 - DEBUG - ItBit update time = 117
+2016-02-07 20:59:09 - DEBUG - OkCoin update time = 213
+2016-02-07 20:59:09 - DEBUG - Btce update time = 345
+2016-02-07 20:59:10 - DEBUG - Anx update time = 419
+2016-02-07 20:59:10 - DEBUG - Kraken update time = 587
+2016-02-07 20:59:10 - DEBUG - Coinbase update time = 400
+2016-02-07 20:59:10 - DEBUG -  Time from time trade it found to executed: 0
+2016-02-07 20:59:10 - INFO - Just executed arbitration opportunity 9591.
+2016-02-07 20:59:10 - INFO - Balances before trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 240.72863740
+			Btc: 0.882
+		ItBit
+			Fiat: 0.0750
+			Btc: 1.518
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+2016-02-07 20:59:15 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 100
+			Btc: 1.25299119
+		Btce
+			Fiat: 260.84701333
+			Btc: 0.82900881
+		ItBit
+			Fiat: 0.0750
+			Btc: 1.518
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+	Differences: 
+		Anx
+			Fiat: 0
+			Btc: 0.0
+		Bitstamp
+			Fiat: -20
+			Btc: 0.05299119
+		Btce
+			Fiat: 20.11837593
+			Btc: -0.05299119
+		ItBit
+			Fiat: 0.0000
+			Btc: 0.000
+		Kraken
+			Fiat: 0
+			Btc: 0.0
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 0
+			Btc: 0.0
+2016-02-07 20:59:15 - DEBUG - ItBit update time = 111
+2016-02-07 20:59:15 - DEBUG - Btce update time = 339
+2016-02-07 20:59:15 - DEBUG - Kraken update time = 271
+2016-02-07 20:59:15 - DEBUG - Anx update time = 428
+2016-02-07 20:59:15 - DEBUG - Bitstamp update time = 522
+2016-02-07 20:59:15 - DEBUG - Coinbase update time = 142
+2016-02-07 20:59:15 - DEBUG - OkCoin update time = 207
+2016-02-07 20:59:15 - DEBUG -  Time from time trade it found to executed: 0
+2016-02-07 20:59:15 - INFO - Just executed arbitration opportunity 9592.
+2016-02-07 20:59:16 - INFO - Balances before trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 100
+			Btc: 1.25299119
+		Btce
+			Fiat: 260.84701333
+			Btc: 0.82900881
+		ItBit
+			Fiat: 0.0750
+			Btc: 1.518
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+2016-02-07 20:59:21 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 80
+			Btc: 1.30598238
+		Btce
+			Fiat: 280.96538926
+			Btc: 0.77601762
+		ItBit
+			Fiat: 0.0750
+			Btc: 1.518
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+	Differences: 
+		Anx
+			Fiat: 0
+			Btc: 0.0
+		Bitstamp
+			Fiat: -20
+			Btc: 0.05299119
+		Btce
+			Fiat: 20.11837593
+			Btc: -0.05299119
+		ItBit
+			Fiat: 0.0000
+			Btc: 0.000
+		Kraken
+			Fiat: 0
+			Btc: 0.0
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 0
+			Btc: 0.0
+2016-02-07 20:59:21 - DEBUG - ItBit update time = 108
+2016-02-07 20:59:21 - DEBUG - Btce update time = 133
+2016-02-07 20:59:21 - DEBUG - OkCoin update time = 216
+2016-02-07 20:59:21 - DEBUG - Bitstamp update time = 389
+2016-02-07 20:59:21 - DEBUG - Anx update time = 419
+2016-02-07 20:59:21 - DEBUG - Coinbase update time = 142
+2016-02-07 20:59:21 - DEBUG - Kraken update time = 426
+2016-02-07 20:59:21 - DEBUG -  Time from time trade it found to executed: 0
+2016-02-07 20:59:21 - INFO - Just executed arbitration opportunity 9593.
+2016-02-07 20:59:21 - INFO - Balances before trade:
+		Anx
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 80
+			Btc: 1.30598238
+		Btce
+			Fiat: 280.96538926
+			Btc: 0.77601762
+		ItBit
+			Fiat: 0.0750
+			Btc: 1.518
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 0
+			Btc: 0
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+2016-02-09 09:37:00 - INFO - Arbitration hunting started. Arbitration run ID = 9018.
+2016-02-09 09:41:31 - WARN - There was an error updating account info for Kraken: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+2016-02-09 09:41:31 - DEBUG - Stack trace: 
+   at BitcoinExchanges.BaseExchange.SimplePost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 427
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 441
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 09:41:32 - WARN - There was an error updating account info for Anx: The operation has timed out
+2016-02-09 09:41:32 - DEBUG - Stack trace: 
+   at BitcoinExchanges.BaseExchange.SimplePost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 427
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 441
+   at BitcoinExchanges.Anx.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Anx.cs:line 88
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 10:33:22 - INFO - Just executed arbitration opportunity 9639.
+2016-02-09 10:33:22 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 0.92
+			Btc: 0.40741646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 4.16876200
+			Btc: 0.54825922
+		Kraken
+			Fiat: 180.6785
+			Btc: 0.0907896300
+		OkCoin
+			Fiat: 153.0917
+			Btc: 0.000746
+2016-02-09 10:33:33 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 0.92
+			Btc: 0.40741646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 4.16876200
+			Btc: 0.54825922
+		Kraken
+			Fiat: 200.5766
+			Btc: 0.0378956300
+		OkCoin
+			Fiat: 133.22677
+			Btc: 0.05364
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 19.8981
+			Btc: -0.0528940000
+		OkCoin
+			Fiat: -19.86493
+			Btc: 0.052894
+2016-02-09 10:33:58 - INFO - Just executed arbitration opportunity 9640.
+2016-02-09 10:33:58 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 0.92
+			Btc: 0.40741646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 4.16876200
+			Btc: 0.54825922
+		Kraken
+			Fiat: 200.5766
+			Btc: 0.0378956300
+		OkCoin
+			Fiat: 133.22677
+			Btc: 0.05364
+2016-02-09 10:34:06 - WARN - Realized profit for arbitration trade 9640 was more than 2% greater than the expected profit. Expected profit = 0.02323, realized profit = 0.03703000.
+2016-02-09 10:34:06 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 0.92
+			Btc: 0.40741646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 4.16876200
+			Btc: 0.54825922
+		Kraken
+			Fiat: 214.4816
+			Btc: 0.0009696300
+		OkCoin
+			Fiat: 119.3588
+			Btc: 0.090566
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 13.9050
+			Btc: -0.0369260000
+		OkCoin
+			Fiat: -13.86797
+			Btc: 0.036926
+2016-02-09 10:58:38 - WARN - There was an error updating account info for Kraken: The operation has timed out
+2016-02-09 10:58:38 - DEBUG - Stack trace: 
+   at BitcoinExchanges.BaseExchange.SimplePost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 427
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 441
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.GetAllOpenOrders() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 153
+   at BitcoinExchanges.BaseExchange.UpdateOpenOrderCount() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 269
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 634
+2016-02-09 12:27:05 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 12:27:05 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.GetAllOpenOrders() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 153
+   at BitcoinExchanges.Kraken.CalculateAvailableCurrenciesFromOpenOrders() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 357
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 103
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 14:28:09 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-09 14:28:09 - DEBUG - Stack trace: 
+   at BitcoinExchanges.Kraken.CheckResponseForErrors(Dictionary`2 responseContent) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 279
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 454
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 15:53:28 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-09 15:53:28 - DEBUG - Stack trace: 
+   at BitcoinExchanges.Kraken.CheckResponseForErrors(Dictionary`2 responseContent) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 279
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 454
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 16:24:30 - INFO - Just executed arbitration opportunity 9641.
+2016-02-09 16:24:30 - INFO - Balances before trade:
+		Anx
+			Fiat: 22.33729
+			Btc: 0.56668546
+		Bitstamp
+			Fiat: 0.92
+			Btc: 0.40741646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 4.16876200
+			Btc: 0.54825922
+		Kraken
+			Fiat: 214.4816
+			Btc: 0.0009696300
+		OkCoin
+			Fiat: 119.3588
+			Btc: 0.090566
+2016-02-09 16:24:41 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 2.44967
+			Btc: 0.61968355
+		Bitstamp
+			Fiat: 0.92
+			Btc: 0.40741646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 4.16876200
+			Btc: 0.54825922
+		Kraken
+			Fiat: 214.4816
+			Btc: 0.0009696300
+		OkCoin
+			Fiat: 139.2649
+			Btc: 0.037566
+	Differences: 
+		Anx
+			Fiat: -19.88762
+			Btc: 0.05299809
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 0.0000
+			Btc: 0.0000000000
+		OkCoin
+			Fiat: 19.9061
+			Btc: -0.053000
+2016-02-09 17:07:54 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:07:54 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.GetAllOpenOrders() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 153
+   at BitcoinExchanges.Kraken.CalculateAvailableCurrenciesFromOpenOrders() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 357
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 103
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:08:26 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:08:26 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:08:56 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:08:56 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:09:26 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:09:26 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:09:56 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:09:56 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:10:26 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:10:26 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:10:58 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:10:58 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:11:29 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:11:29 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:11:58 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:11:58 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:12:27 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:12:27 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:13:01 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:13:01 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:13:33 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:13:33 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:14:02 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:14:02 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:14:33 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:14:33 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:15:09 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:15:09 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:15:41 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:15:41 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:16:18 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:16:18 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.GetAllOpenOrders() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 153
+   at BitcoinExchanges.Kraken.CalculateAvailableCurrenciesFromOpenOrders() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 357
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 103
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:16:50 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:16:50 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:17:36 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:17:36 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.GetAllOpenOrders() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 153
+   at BitcoinExchanges.BaseExchange.UpdateOpenOrderCount() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 269
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 634
+2016-02-09 17:18:06 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:18:06 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:18:36 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:18:36 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:18:56 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:18:56 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:19:27 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:19:27 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 17:19:58 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 17:19:58 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 18:08:03 - WARN - There was an error updating account info for Kraken: There was a problem connecting to the Kraken api: EAPI:Invalid nonce
+2016-02-09 18:08:03 - DEBUG - Stack trace: 
+   at BitcoinExchanges.Kraken.CheckResponseForErrors(Dictionary`2 responseContent) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 279
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 454
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 18:29:34 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 18:29:34 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 18:30:04 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 18:30:04 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 18:47:14 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 18:47:14 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.GetAllOpenOrders() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 153
+   at BitcoinExchanges.BaseExchange.UpdateOpenOrderCount() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 269
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 634
+2016-02-09 19:06:18 - INFO - Just executed arbitration opportunity 9642.
+2016-02-09 19:06:19 - INFO - Balances before trade:
+		Anx
+			Fiat: 2.44967
+			Btc: 0.61968355
+		Bitstamp
+			Fiat: 0.92
+			Btc: 0.40741646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 4.16876200
+			Btc: 0.54825922
+		Kraken
+			Fiat: 214.4816
+			Btc: 0.0009696300
+		OkCoin
+			Fiat: 139.2649
+			Btc: 0.037566
+2016-02-09 19:06:28 - WARN - Arbitration trade 9642 did not execute. Buy order did not get filled. 
+2016-02-09 19:06:28 - INFO - Balances after trade:
+		Anx
+			Fiat: 2.44967
+			Btc: 0.61968355
+		Bitstamp
+			Fiat: 0.92
+			Btc: 0.40741646
+		Btce
+			Fiat: 233.48391303
+			Btc: 0.16175975
+		ItBit
+			Fiat: 4.16876200
+			Btc: 0.54825922
+		Kraken
+			Fiat: 200.62802
+			Btc: 0.0009696300
+		OkCoin
+			Fiat: 153.1334
+			Btc: 0.000566
+Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 0.00
+			Btc: 0.00000000
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: -13.85358
+			Btc: 0.0000000000
+		OkCoin
+			Fiat: 13.8685
+			Btc: -0.037000
+2016-02-09 19:15:24 - WARN - There was a problem updating the order book for Kraken:
+	Invalid JSON primitive: .
+2016-02-09 19:15:24 - DEBUG - Stack trace:
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateOrderBook(Nullable`1 maxSize) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 206
+   at ArbitrationSimulator.ArbitrationHunter.<UpdateExchangeOrderBooks>b__2(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationHunter.cs:line 340
+2016-02-09 19:51:20 - WARN - There was an error updating account info for Kraken: Invalid JSON primitive: .
+2016-02-09 19:51:20 - DEBUG - Stack trace: 
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject()
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializeInternal(Int32 depth)
+   at System.Web.Script.Serialization.JavaScriptObjectDeserializer.BasicDeserialize(String input, Int32 depthLimit, JavaScriptSerializer serializer)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at BitcoinExchanges.BaseExchange.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\BaseExchange.cs:line 446
+   at BitcoinExchanges.Kraken.ApiPost(RestRequest request, String baseUrl) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 247
+   at BitcoinExchanges.Kraken.UpdateBalances() in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Kraken.cs:line 84
+   at ArbitrationSimulator.ArbitrationManager.<UpdateExchangeAccountInfo>b__11(BaseExchange exchange) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 633
+2016-02-09 21:08:33 - INFO - Arbitration hunting started. Arbitration run ID = 9024.
+2016-02-09 21:10:47 - INFO - Arbitration hunting started. Arbitration run ID = 9025.
+2016-02-09 21:23:39 - INFO - Arbitration hunting started. Arbitration run ID = 9027.
+2016-02-14 15:38:08 - INFO - Arbitration hunting started. Arbitration run ID = 9050.
+2016-02-14 15:38:14 - INFO - Arbitration hunting stopped. Arbitration run ID = 9050.
+2016-02-14 15:38:18 - INFO - Arbitration hunting started. Arbitration run ID = 9051.
+2016-02-14 15:38:34 - INFO - Arbitration hunting stopped. Arbitration run ID = 9051.
+2016-02-14 15:38:37 - INFO - Arbitration hunting stopped. Arbitration run ID = 9051.
+2016-02-14 18:22:13 - INFO - Arbitration hunting started. Arbitration run ID = 9058.
+2016-02-14 18:22:19 - INFO - Arbitration hunting stopped. Arbitration run ID = 9058.
+2016-02-14 18:22:22 - INFO - Arbitration hunting started. Arbitration run ID = 9059.
+2016-02-14 18:22:28 - INFO - Arbitration hunting stopped. Arbitration run ID = 9059.
+2016-02-14 18:28:15 - INFO - Arbitration hunting started. Arbitration run ID = 9060.
+2016-02-14 18:28:24 - INFO - Arbitration hunting stopped. Arbitration run ID = 9060.
+2016-02-14 18:29:43 - INFO - Arbitration hunting started. Arbitration run ID = 9061.
+2016-02-14 18:29:50 - INFO - Arbitration hunting stopped. Arbitration run ID = 9061.
+2016-02-14 18:30:00 - INFO - Arbitration hunting stopped. Arbitration run ID = 9061.
+2016-02-15 00:03:44 - INFO - Arbitration hunting started. Arbitration run ID = 9085.
+2016-02-15 00:03:57 - INFO - Arbitration hunting started. Arbitration run ID = 9086.
+2016-02-15 00:04:03 - INFO - Arbitration hunting stopped. Arbitration run ID = 9086.
+2016-02-15 00:04:05 - INFO - Arbitration hunting stopped. Arbitration run ID = 9086.
+2016-07-10 21:36:09 - INFO - Arbitration hunting started. Arbitration run ID = 9098.
+2016-10-01 15:32:27 - INFO - Arbitration hunting started. Arbitration run ID = 14118.
+2016-10-01 15:32:28 - WARN - There was an error updating account info for Btce: The remote name could not be resolved: 'btc-e.com'
+2016-10-01 15:32:34 - WARN - There was an error updating account info for Btce: The remote name could not be resolved: 'btc-e.com'
+2016-10-01 15:32:36 - WARN - There was a problem updating the order book for Btce:
+	The remote name could not be resolved: 'btc-e.com'
+2016-10-01 15:32:37 - INFO - Arbitration hunting stopped. Arbitration run ID = 14118.
+2016-10-01 15:32:42 - INFO - Arbitration hunting stopped. Arbitration run ID = 14118.
+2018-03-06 15:12:32 - INFO - Arbitration hunting started. Arbitration run ID = 16162.
+2018-03-06 15:13:23 - INFO - Arbitration hunting stopped. Arbitration run ID = 16162.
+2018-03-06 15:13:30 - INFO - Arbitration hunting started. Arbitration run ID = 16163.
+2018-03-06 15:13:32 - INFO - Arbitration hunting stopped. Arbitration run ID = 16163.
+2018-03-06 15:13:36 - INFO - Arbitration hunting started. Arbitration run ID = 16164.
+2018-03-06 15:16:22 - INFO - Arbitration hunting stopped. Arbitration run ID = 16164.
+2018-03-06 15:17:01 - INFO - Arbitration hunting started. Arbitration run ID = 16165.
+2018-03-06 15:17:10 - INFO - Arbitration hunting stopped. Arbitration run ID = 16165.
+2018-03-06 15:17:12 - INFO - Arbitration hunting started. Arbitration run ID = 16166.
+2018-03-06 15:34:12 - INFO - Arbitration hunting stopped. Arbitration run ID = 16166.
+2018-03-06 15:34:13 - INFO - Arbitration hunting stopped. Arbitration run ID = 16166.
+2018-03-06 15:38:42 - INFO - Arbitration hunting started. Arbitration run ID = 16171.
+2018-03-06 16:50:09 - WARN - There was a problem updating the order book for Bitstamp:
+	The operation has timed out.
+2018-03-06 20:27:08 - WARN - There was a problem updating the order book for Btce:
+	Invalid JSON primitive: .
+2018-03-06 21:39:12 - WARN - There was a problem updating the order book for ItBit:
+	Invalid JSON primitive: Rate.
+2018-03-07 00:08:19 - WARN - There was a problem updating the order book for Bitstamp:
+	The operation has timed out.
+2018-03-07 04:39:33 - WARN - There was a problem updating the order book for OkCoin:
+	The operation has timed out
+2018-03-07 10:39:23 - WARN - There was a problem updating the order book for Kraken:
+	Invalid JSON primitive: .
+2018-03-07 14:24:08 - WARN - There was a problem updating the order book for Bitstamp:
+	The operation has timed out.
+2018-03-07 15:28:08 - WARN - There was a problem updating the order book for Bitstamp:
+	The operation has timed out.
+2018-03-07 15:50:08 - WARN - There was a problem updating the order book for Bitstamp:
+	The operation has timed out.
+2018-03-07 16:05:47 - WARN - There was a problem updating the order book for Btce:
+	Invalid JSON primitive: .
+2018-03-07 16:06:23 - WARN - There was a problem updating the order book for Btce:
+	Invalid JSON primitive: .
+2018-03-07 16:33:32 - WARN - There was a problem updating the order book for OkCoin:
+	Invalid JSON primitive: .
+2018-03-07 17:59:55 - WARN - There was a problem updating the order book for Bitstamp:
+	The operation has timed out.
+2018-03-07 18:30:23 - INFO - Arbitration hunting stopped. Arbitration run ID = 16171.
+2018-03-07 18:49:31 - INFO - Arbitration hunting stopped. Arbitration run ID = 16171.
+2018-03-07 18:49:40 - INFO - Arbitration hunting started. Arbitration run ID = 16175.
+2018-03-07 18:49:49 - INFO - Just executed arbitration opportunity 13715.
+2018-03-07 18:49:49 - INFO - Balances before trade:
+		Bitfinex
+			Fiat: 120
+			Btc: 1.2
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 120
+			Btc: 1.2
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+		ItBit
+			Fiat: 120
+			Btc: 1.2
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 120
+			Btc: 1.2
+2018-03-07 18:49:54 - INFO - 	Balances after trade:
+		Bitfinex
+			Fiat: 85.00000228
+			Btc: 1.20354945
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 155.06952385
+			Btc: 1.19645055
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+		ItBit
+			Fiat: 120
+			Btc: 1.2
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 120
+			Btc: 1.2
+	Differences: 
+		Bitfinex
+			Fiat: -34.99999772
+			Btc: 0.00354945
+		Bitstamp
+			Fiat: 0
+			Btc: 0.0
+		Btce
+			Fiat: 35.06952385
+			Btc: -0.00354945
+		Coinbase
+			Fiat: 0
+			Btc: 0.0
+		ItBit
+			Fiat: 0
+			Btc: 0.0
+		Kraken
+			Fiat: 0
+			Btc: 0.0
+		OkCoin
+			Fiat: 0
+			Btc: 0.0
+2018-03-07 18:49:55 - INFO - Just executed arbitration opportunity 13716.
+2018-03-07 18:49:55 - INFO - Balances before trade:
+		Bitfinex
+			Fiat: 85.00000228
+			Btc: 1.20354945
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 155.06952385
+			Btc: 1.19645055
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+		ItBit
+			Fiat: 120
+			Btc: 1.2
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 120
+			Btc: 1.2
+2018-03-07 18:50:00 - INFO - 	Balances after trade:
+		Bitfinex
+			Fiat: 50.00006965
+			Btc: 1.20710254
+		Bitstamp
+			Fiat: 120
+			Btc: 1.2
+		Btce
+			Fiat: 190.17501189
+			Btc: 1.19289746
+		Coinbase
+			Fiat: 120
+			Btc: 1.2
+		ItBit
+			Fiat: 120
+			Btc: 1.2
+		Kraken
+			Fiat: 120
+			Btc: 1.2
+		OkCoin
+			Fiat: 120
+			Btc: 1.2
+	Differences: 
+		Bitfinex
+			Fiat: -34.99993263
+			Btc: 0.00355309
+		Bitstamp
+			Fiat: 0
+			Btc: 0.0
+		Btce
+			Fiat: 35.10548804
+			Btc: -0.00355309
+		Coinbase
+			Fiat: 0
+			Btc: 0.0
+		ItBit
+			Fiat: 0
+			Btc: 0.0
+		Kraken
+			Fiat: 0
+			Btc: 0.0
+		OkCoin
+			Fiat: 0
+			Btc: 0.0
+2018-03-07 18:51:48 - INFO - Arbitration hunting stopped. Arbitration run ID = 16175.
+2018-03-07 18:51:50 - INFO - Arbitration hunting stopped. Arbitration run ID = 16175.

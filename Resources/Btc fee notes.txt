@@ -1,0 +1,9 @@
+-> Add calculate total cost to Exchange, which does the appropriate rounding. Must be implemented for every exchange
+	-> public decimal CalculateTotalCost(amount, buyprice, ordertype)
+	-> Update arbitrationOpportunity.CalculateTotalCost to use this new method
+	
+-> Update ArbitrationHunter.CalculateArbitration to know when to subtract sellAmount instead of BuyAmount
+	-> (In the big While block that starts on line 141)
+	-> Create structure that calculates both buy and sell amounts; subtract buy amount when it makes sense, and likewise with sell amount
+
+	

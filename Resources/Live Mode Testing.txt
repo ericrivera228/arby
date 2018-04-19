@@ -1,0 +1,5 @@
+Testing of Live Mode:
+	1. Ensure all account balances are appropriately updated.
+	2. Ensure buy/sells are posted appropriately.
+	3. Ensure transfers are posted appropriately.
+	4. Ensure account balances are updated after each interval

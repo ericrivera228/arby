@@ -1,0 +1,89 @@
+2016-01-23 16:53:12 - INFO - Arbitration hunting started. Arbitration run ID = 8902.
+2016-01-23 17:57:20 - INFO - Just executed arbitration opportunity 9392.
+2016-01-23 17:57:21 - INFO - Balances before trade:
+		Anx
+			Fiat: 14.77776
+			Btc: 0.53553919
+		Bitstamp
+			Fiat: 0.13
+			Btc: 0.41244230
+		Btce
+			Fiat: 247.85967946
+			Btc: 0.12659415
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 203.6099
+			Btc: 0.0204587900
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+2016-01-23 17:57:27 - WARN - Realized profit for arbitration trade 9392 was more than 2% greater than the expected profit. Expected profit = 0.022243200000, realized profit = 14.79000000.Bitcoin balance after arbitration trade 9392 decreased by more than 2%. Bitcoin balance before trade = 1.7243476500, bitcoin balance after trade = 1.6861207000.
+2016-01-23 17:57:27 - INFO - 	Balances after trade:
+		Anx
+			Fiat: 14.77776
+			Btc: 0.53553919
+		Bitstamp
+			Fiat: 14.92
+			Btc: 0.37421535
+		Btce
+			Fiat: 247.85967946
+			Btc: 0.12659415
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 203.6099
+			Btc: 0.0204587900
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+	Differences: 
+		Anx
+			Fiat: 0.00000
+			Btc: 0.00000000
+		Bitstamp
+			Fiat: 14.79
+			Btc: -0.03822695
+		Btce
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		ItBit
+			Fiat: 0.00000000
+			Btc: 0.00000000
+		Kraken
+			Fiat: 0.0000
+			Btc: 0.0000000000
+		OkCoin
+			Fiat: 0.00000
+			Btc: 0.000000
+2016-01-23 17:57:28 - ERROR - There was a problem executing arbitration trade 9393: 
+	There was a problem connecting to the Anx api: Insufficient Funds.
+2016-01-23 17:57:28 - INFO - Just executed arbitration opportunity 9393.
+2016-01-23 17:57:28 - INFO - Balances before trade:
+		Anx
+			Fiat: 14.77776
+			Btc: 0.53553919
+		Bitstamp
+			Fiat: 14.92
+			Btc: 0.37421535
+		Btce
+			Fiat: 247.85967946
+			Btc: 0.12659415
+		ItBit
+			Fiat: 1.80226700
+			Btc: 0.54135922
+		Kraken
+			Fiat: 203.6099
+			Btc: 0.0204587900
+		OkCoin
+			Fiat: 121.59844
+			Btc: 0.087954
+2016-01-23 17:57:35 - INFO - Arbitration hunting stopped. Arbitration run ID = 8902.
+2016-01-23 17:57:35 - ERROR - Unexpected error with the arbitration run: 
+System.Exception: Could not get information for order  at Anx; order is either not valid or has already been cancelled.
+   at BitcoinExchanges.Anx.IsOrderFulfilled(String orderId) in c:\Code Repository\ArbitrationSimulator\BitcoinExchanges\Anx.cs:line 196
+   at ArbitrationSimulator.OpportunityValidator.ValidateArbitrationTradeOrderExecution(ArbitrationOpportunity arbitrationTrade) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\OpportunityValidator.cs:line 140
+   at ArbitrationSimulator.ArbitrationManager.IntervalElapsed(Object source, ElapsedEventArgs e) in c:\Code Repository\ArbitrationSimulator\ArbitrationSimulator\ArbitrationManager.cs:line 227
+2016-01-23 19:53:00 - INFO - Arbitration hunting stopped. Arbitration run ID = 8902.
